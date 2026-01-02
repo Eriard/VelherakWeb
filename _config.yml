@@ -5,8 +5,8 @@ theme: just-the-docs
 url: https://just-the-docs.github.io
 
 
-logo: "/assets/images/Velherak_Black_Icon.png"
-favicon_ico: "/assets/images/favicon.ico"
+logo: "/assets/images/TestLogo.png"
+favicon_ico: "/assets/images/faviconWhite.ico"
 color_scheme: dark
 callouts:
   info:
