@@ -2,6 +2,14 @@ title: Velherak
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
+logo: "/assets/images/Velherak_Black_Icon.png"
+favicon_ico: "/assets/images/favicon.ico"
+color_scheme: dark
+callouts:
+  info:
+    title: Info
+    color: blue
+    
 url: https://just-the-docs.github.io
 
 aux_links:
