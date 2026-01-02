@@ -14,8 +14,9 @@ callouts:
     title: Info
     color: blue
     
+search_enabled: false
+search.button: false
 
-  
 # External navigation links
 nav_external_links:
   - title: Just the Docs on GitHub
