@@ -1,10 +1,10 @@
 $color-scheme: test;
 $body-background-color: #301E1E;
-$body-heading-color: #301E1E;
+$body-heading-color: $grey-lt-000;
 $body-text-color: $grey-lt-300;
 $link-color: lighten(#FF9E02, 10%);
 $nav-child-link-color: $grey-dk-000;
-$sidebar-color: $grey-dk-300;
+$sidebar-color: #301E1E;
 $base-button-color: $grey-dk-250;
 $btn-primary-color: $blue-200;
 $code-background-color: #301E1E; // github-dark bg color
