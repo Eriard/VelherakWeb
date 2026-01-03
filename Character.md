@@ -4,24 +4,21 @@ parent: Rulebook
 layout: page
 ---
 
-[** 1. Choose a Warden**](https://eriard.github.io/VelherakWeb/Wardens.html)
+[**1. Choose a Warden**](https://eriard.github.io/VelherakWeb/Wardens.html)
 
 *This is the role you hold in the community.*
 
 - Spear Sage
-- Sun Dancer
 - Wild Walker
-- Shrine Warden
 - Dream Watcher
-- Hearth Weaver
 
-**2. Fill in your Saga**
+
 [**2. Fill in your Saga**](https://eriard.github.io/VelherakWeb/Saga.html)
 
 *This is your experiences and legacy*
 
 - Age
-- Legend
+- Saga
 - Burden
 
 [**3. Fill in your Attributes**](https://eriard.github.io/VelherakWeb/Attributes.html)
