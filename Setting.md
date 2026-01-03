@@ -1,6 +1,5 @@
 ---
-title: Community
-parent: Rulebook
+title: Setting
 layout: page
 ---
 

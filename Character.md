@@ -1,5 +1,6 @@
 ---
 title: Character
+Parent: Rulebook
 layout: page
 ---
 
