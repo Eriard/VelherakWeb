@@ -1,5 +1,5 @@
 ---
-title: Playing The Game
+title: Leading The Game
 parent: Rulebook
 layout: page
 ---
