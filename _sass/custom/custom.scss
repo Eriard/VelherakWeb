@@ -1,7 +1,7 @@
 .site-nav .nav-list-item > .nav-list-link {
   font-weight: 700;
   font-size: 1rem;
-  color: #2a2a2a;
+  color: #5c5c5c;
   text-transform: uppercase;
 }
 
@@ -19,5 +19,5 @@
 }
 
 .site-nav .nav-list-item > .nav-list-link:hover {
-  border-left-color: #6900cc;
+  border-left-color: lighten(#FF9E02, 20%);
 }
