@@ -1,6 +1,6 @@
 ---
 title: TestLink
-layout: home
+layout: page
 nav_order: 1
 Redirect_to: [Cairn](https://cairnrpg.com)
 ---
