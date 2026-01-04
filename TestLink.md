@@ -2,7 +2,7 @@
 title: TestLink
 layout: page
 nav_order: 1
-Redirect_to: [Cairn](https://cairnrpg.com)
+redirect_to: [Cairn](https://cairnrpg.com)
 ---
 
 # Welcome to Velherak
