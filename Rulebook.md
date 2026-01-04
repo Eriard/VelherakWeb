@@ -18,3 +18,14 @@ nav_order: 5
   </div>
 </div>
 ----
+
+<div style="display: flex; gap: 20px;">
+  <div style="flex: 1;">
+    **Left Column**
+    Content here
+  </div>
+  <div style="flex: 1;">
+    **Right Column**
+    Content here
+  </div>
+</div>
