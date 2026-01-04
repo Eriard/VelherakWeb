@@ -10,8 +10,6 @@ favicon_ico: "/assets/images/faviconWhite.ico"
 
 color_scheme: test
 
-
-
 callouts:
   info:
     title: Info
@@ -19,6 +17,19 @@ callouts:
     
 search_enabled: false
 search.button: false
+
+
+twitter_username: jekyllrb
+github_username:  jekyll
+dribbble_username: jekyll
+facebook_username: jekyll
+flickr_username: jekyll
+instagram_username: jekyll
+linkedin_username: jekyll
+pinterest_username: jekyll
+youtube_username: jekyll
+googleplus_username: +jekyll
+rss: rss
 
 # External navigation links
 nav_external_links:
