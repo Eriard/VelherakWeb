@@ -1,5 +1,5 @@
 ---
 title: Forum
-nav_order: 2
-redirect_to: https://store.cairnrpg.com
+nav_order: 1
+redirect_to: https://eriard.github.io/VelherakWeb/
 ---

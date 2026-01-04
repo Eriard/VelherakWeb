@@ -1,5 +1,5 @@
 ---
 title: Newsletter
-nav_order: 3
-redirect_to: https://store.cairnrpg.com
+nav_order: 2
+redirect_to: https://eriard.github.io/VelherakWeb/
 ---
