@@ -1,5 +1,5 @@
 ---
-title: *Rulebook*
+title: Rulebook
 layout: page
 nav_order: 5
 ---
@@ -22,7 +22,7 @@ nav_order: 5
   <div style="flex: 1;">
     **Left Column**
     Content here
-    ## Spirit
+    <h2> Spirit </h2> <b>
   </div>
   <div style="flex: 1;">
     **Right Column**
