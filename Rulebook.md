@@ -20,9 +20,10 @@ nav_order: 5
 ----
 <div style="display: flex; gap: 20px;">
   <div style="flex: 1;">
+    <h2> Spirit </h2> <b>
     **Left Column**
     Content here
-    <h2> Spirit </h2> <b>
+    </b>
   </div>
   <div style="flex: 1;">
     **Right Column**
