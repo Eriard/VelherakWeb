@@ -11,8 +11,7 @@ logo: "/assets/images/TestLogoWeb.png"
 favicon_ico: "/assets/images/faviconWhite.ico"
 
 color_scheme: test
-include_custom:
-    - assets/css/custom.scss
+
 
 callouts:
   info:
@@ -21,26 +20,3 @@ callouts:
     
 search_enabled: false
 search.button: false
-
-# External navigation links
-nav_external_links:
-  - title: Store
-    url: https://github.com/just-the-docs/just-the-docs
-    hide_icon: false # set to true to hide the external link icon - defaults to false
-    opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
-    nav_external_links_new_tab: true
-
-    
-  - title: Forum
-    url: https://github.com/just-the-docs/just-the-docs
-    hide_icon: false # set to true to hide the external link icon - defaults to false
-    opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
-    nav_external_links_new_tab: true
-
-    
-  - title: Newsletter
-    url: https://github.com/just-the-docs/just-the-docs
-    hide_icon: false # set to true to hide the external link icon - defaults to false
-    opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
-    nav_external_links_new_tab: true
-   
