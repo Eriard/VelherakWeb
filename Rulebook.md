@@ -26,9 +26,9 @@ nav_order: 5
     </b>
   </div>
   <div style="flex: 1;">
-    **Right Column**
-    Content here
-    ## Insight
-
+   <h2> Spirit </h2> <b>
+	 **Right Column**
+	 Content here
+		</b>
   </div>
 </div>
