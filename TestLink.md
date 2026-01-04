@@ -1,7 +1,8 @@
 ---
-title: Home
+title: TestLink
 layout: home
-nav_order: 0
+nav_order: 1
+Redirect_to: [Cairn](https://cairnrpg.com)
 ---
 
 # Welcome to Velherak
