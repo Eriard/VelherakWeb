@@ -12,7 +12,7 @@ favicon_ico: "/assets/images/faviconWhite.ico"
 
 color_scheme: test
 include_custom:
-    - assets/css/custom
+    - assets/css/custom.scss
 
 callouts:
   info:
