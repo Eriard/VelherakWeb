@@ -12,6 +12,7 @@ favicon_ico: "/assets/images/faviconWhite.ico"
 
 color_scheme: test
 
+
 callouts:
   info:
     title: Info
