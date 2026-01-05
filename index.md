@@ -17,7 +17,7 @@ USON is a game about community, mystery and surviving in a strange yet beautiful
 The game is written by Markus M. Lange.
 The full text is licensed under ::::::. You can find the source files here.
 
-<a href="https://www.kickstarter.com/projects/hybrosia/under-shadow-of-night">
+<a href="https://www.kickstarter.com/projects/hybrosia/under-shadow-of-night" target="_blank" rel="noopener noreferrer">
   <img src="assets/images/LogoImageKick.png" alt="Main promo image of Velherak. A Theiwan Dream Watcher gazing into the dreaming Wilds" width="700"/>
 </a>
 
