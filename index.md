@@ -5,7 +5,7 @@ nav_order: 0
 ---
 
 # Under Shadow of Night
-A tabletop roleplaying game where the players dive into a forgotten time of mythical creatures beyond gods and monsters in the world of <font color="#FF9E02"> <b> Velherak </b></font> . Players take on the mantle of Wardens, and together with they must defend the people against mythical horrors, changing landscapes and terrible calamities that befall the region.
+<font color="#FF9E02"> <b> Under Shadow of Night </b></font> is a tabletop roleplaying game where the players dive into a forgotten time of mythical creatures beyond gods and monsters in the world of <font color="#FF9E02"> <b> Velherak </b></font> . Players take on the mantle of Wardens, and together with they must defend the people against mythical horrors, changing landscapes and terrible calamities that befall the region.
 USON is a game about community, mystery and surviving in a strange yet beautiful unforgiving world. It is played by up to six players where one player takes the role of Storyteller and the others become the Wardens.
 
 <a href="https://www.kickstarter.com/projects/hybrosia/under-shadow-of-night" target="_blank" rel="noopener noreferrer">
