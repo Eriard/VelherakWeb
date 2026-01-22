@@ -7,8 +7,8 @@ layout: page
   <div style="flex: 1;">
     <h3> 1.Choose a Warden</h3>
     
-<i>This is the role you hold in the community.<i>
-<br>
+<i>This is the role you hold in the community.<i><br>
+
 - Spear Sage <br>
 - Wild Walker <br>
 - Dream Watcher 
@@ -26,7 +26,7 @@ layout: page
 
 - Traits <br> 
 - Skills <br>
-- Potential </br>
+- Potential
 
 </div>
 
