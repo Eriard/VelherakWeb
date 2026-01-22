@@ -13,7 +13,7 @@ layout: page
 - Wild Walker <br>
 - Dream Watcher 
 
-<p>
+
 <h3> 2.Fill in your Saga</h3>
 <i>This is your experiences and legacy</i> <br>
 
@@ -38,11 +38,12 @@ layout: page
 - Trauma Track
 
 <h3> Choose your Tools</h3>
-<i>These are your everyday tools </i><br>
+<i>These are your everyday tools </i>
+<br>
 
 - Items <br>
 	- Instruments <br>
-- Arms </br>
+- Arms 
   </div>
 </div>
 
