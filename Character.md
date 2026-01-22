@@ -5,7 +5,7 @@ layout: page
 ---
 <div style="display: flex; gap: 20px;">
   <div style="flex: 1;">
-    <h3> 1. Choose a Warden
+    <h3> 1.Choose a Warden</h3>
 <i>This is the role you hold in the community.<i>
 
 - Spear Sage
@@ -13,16 +13,14 @@ layout: page
 - Dream Watcher
 
 <p>
-[**2. Fill in your Saga**](https://eriard.github.io/VelherakWeb/Saga.html)
-
+<h3> 2.Fill in your Saga</h3>
 *This is your experiences and legacy*
 
 - Age
 - Saga
 - Burden
 
-[**3. Fill in your Attributes**](https://eriard.github.io/VelherakWeb/Attributes.html)
-
+<h3> 3. Fill in your Attributes</h3>
 *These are your physical and mental capabilities.*
 
 - Traits
@@ -31,15 +29,13 @@ layout: page
 
   </div>
   <div style="flex: 1;">
-   [**4. Set up your Vitality**](https://eriard.github.io/VelherakWeb/Vitality.html)
-
+   <h3> Set up your Vitality</h3>
 *This is your capacity for strain and suffering.*
 
 - Stress Track
 - Trauma Track
 
-[**5. Choose your Tools**](https://eriard.github.io/VelherakWeb/Tools.html)
-
+<h3> Choose your Tools</h3>
 *These are your everyday tools*
 
 - Items
@@ -50,7 +46,23 @@ layout: page
   </div>
 </div>
 
+---- 
+<div style="display: flex; gap: 20px;">
+  <div style="flex: 1;">
+    <h2> Spirit </h2> <b>
+    **Left Column**
+    Content here
+    </b>
+  </div>
+  <div style="flex: 1;">
+   <h2> Spirit </h2> <b>
+	 **Right Column**
+	 Content here
+		</b>
+  </div>
+</div>
 
+---- 
 
 /*<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
   <div>
