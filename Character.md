@@ -3,8 +3,9 @@ title: Character
 parent: Rulebook
 layout: page
 ---
-
-[**1. Choose a Warden**](https://eriard.github.io/VelherakWeb/Wardens.html)
+<div style="display: flex; gap: 20px;">
+  <div style="flex: 1;">
+    [**1. Choose a Warden**](https://eriard.github.io/VelherakWeb/Wardens.html)
 
 *This is the role you hold in the community.*
 
@@ -29,7 +30,9 @@ layout: page
 - Skills
 - Potential
 
-[**4. Set up your Vitality**](https://eriard.github.io/VelherakWeb/Vitality.html)
+  </div>
+  <div style="flex: 1;">
+   [**4. Set up your Vitality**](https://eriard.github.io/VelherakWeb/Vitality.html)
 
 *This is your capacity for strain and suffering.*
 
@@ -43,3 +46,21 @@ layout: page
 - Items
 	- Instruments
 - Arms
+
+
+  </div>
+</div>
+
+
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+  <div>
+    **Column 1**
+    Content for the first column goes here.
+  </div>
+  <div>
+    **Column 2**
+    Content for the second column goes here.
+  </div>
+</div>
+----
