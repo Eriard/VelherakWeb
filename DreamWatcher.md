@@ -2,36 +2,58 @@
 title: Dream Watcher
 parent: Wardens
 layout: page
-nav_order: 2
+nav\_order: 2
+---
+# Dream Watcher (R)
+
+> Meditate on the anchor of dreams to enter waking trances where you gaze beyond the veil into the Dreaming Wilds. Protect your people and ward off nightmares. Seek out those lost in dreams and help them find their way back.
+
+## The Veiled Anchor
+
+> *This **Relic** was found within ancient dreams and brought back to the people.*
+
+An Anchor that grounds its wearer in the dreaming wilds, allowing them to shape dreams and traverse as they wish through the dreaming wilds. The anchor also leads them home, no matter how deep they dream. By offering their memories, the Watchers can bring back the lost or solidify places in the dreaming wilds, making them fixtures of the dream.
+
+**Boon:** Bonus Dice on Traversal Rolls in the Dreaming Wild - no cost
+
+**Mystic Boon:** *Halt Dream*, Set your Anchor up in the sky and it will hover and make it so that nothing may change.
+
+\~\~Fable:\~\~
+
+**\~\~Mystic Boon:** *Banish Nightmare*, Set your anchor in the sky and it will drive away the nightmare for as long as it hangs.\~\~
+
+**\~\~Mystic Boon:** *Fixtures*, Set your anchor in the sky and it will create a fixture within the dreaming Wild of the location.\~\~
+
+> *Moonsinger as*
+
+## Rites of Dreams
+
+> *These **Rites** are your tools for wandering the dreaming wilds*
+
+You can perform Sacred Ceremonies where you focus on your Anchor to enter a deep trance, allowing you to peer into the dreaming wilds, entering shared dreams or protecting the sleeping from the nightmares.
+
+**Vision**
+Perform a rite where you bind yourself to your dreams, allowing you to seek out the people or places that you dream of. When you awake there is a pull which you can follow.
+
+
+**Warding**
+Perform a rite where you serve as guide to the sleeping, keeping them on the true path, not falling into nightmares.
+
+> *The villagers thrashed and suffered, unable to awaken, their spirit slowly fading. Moonsinger stood above the dreamer and with ethereal song she slowly guiding them out of their nightmares and back to the waking wilds.*
+
+**Wandering**
+Perform a rite where you delve into the dreams of others to guide them or seek what troubles them
+
+**Waking Dream**
+Perform a rite where you gain the gaze of the dreaming wilds, seeing the veil between wilds, echoes placed upon the waking. This lasts until the next sunset.
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# The Dreaming Wild
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+> This **Knowledge** is *secret* and is your burden to bear.
 
-More specifically, the created site:
+There is a realm beyond our waking eyes, the land of dreams and nightmares: The Dreaming Wilds. We all wander through it in sleep, unwillingly swept away by visions of yore, imagined lands and things wholly strange and unknown to us in the Waking Wilds.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+Like a river it is forever changing, a strange flow only the wisest of us know how to traverse. For one cannot tame the flow, only halt it momentarily. Those of us with sacred knowledge can walk in dreams, unfettered by the flow, able to peer beneath the surface.
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
-
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
-
-To get started with creating a site, simply:
-
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+But all is not well within the Dreaming Wilks, there are malicious spirits and forces that hunger to feast on the dreaming, the most dire of all being Nightmares. Rotting dreams that capture the dreamers and hold them trapped in unnatural and confusing caves, forests and endless plains. Slowly the nightmares drain the spirit of the trapped, or even worse - a monster of dreams may use it as their hunting ground and consume you whole.

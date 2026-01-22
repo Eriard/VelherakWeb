@@ -2,9 +2,10 @@
 title: Spear Sage
 parent: Wardens
 layout: page
-nav_order: 0
+nav\_order: 0
 ---
 
+# Spear Sage
 > Protecting your people is your highest calling and you would do anything to protect them from the hungry beasts or shambling monsters.
 
 
