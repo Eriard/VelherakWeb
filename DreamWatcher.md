@@ -4,7 +4,7 @@ parent: Wardens
 layout: page
 nav\_order: 2
 ---
-# Dream Watcher (R)
+# Dream Watcher
 
 > Meditate on the anchor of dreams to enter waking trances where you gaze beyond the veil into the Dreaming Wilds. Protect your people and ward off nightmares. Seek out those lost in dreams and help them find their way back.
 
@@ -14,9 +14,9 @@ nav\_order: 2
 
 An Anchor that grounds its wearer in the dreaming wilds, allowing them to shape dreams and traverse as they wish through the dreaming wilds. The anchor also leads them home, no matter how deep they dream. By offering their memories, the Watchers can bring back the lost or solidify places in the dreaming wilds, making them fixtures of the dream.
 
-**Boon:** Bonus Dice on Traversal Rolls in the Dreaming Wild - no cost
+<font color="#FF9E02"> <b> **Boon:** </b> </font> Bonus Dice on Traversal Rolls in the Dreaming Wild - no cost
 
-**Mystic Boon:** *Halt Dream*, Set your Anchor up in the sky and it will hover and make it so that nothing may change.
+<font color="#FF9E02"> <b> **Mystic Boon:**</b></font> *Halt Dream*, Set your Anchor up in the sky and it will hover and make it so that nothing may change.
 
 \~\~Fable:\~\~
 

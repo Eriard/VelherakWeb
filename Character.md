@@ -5,7 +5,7 @@ layout: page
 ---
 <div style="display: flex; gap: 20px;">
   <div style="flex: 1;">
-    [**1. Choose a Warden**](https://eriard.github.io/VelherakWeb/Wardens.html)
+    [**<font color="#FF9E02"><h2> 1. Choose a Warden</h2></font> **](https://eriard.github.io/VelherakWeb/Wardens.html)
 
 *This is the role you hold in the community.*
 
@@ -13,7 +13,7 @@ layout: page
 - Wild Walker
 - Dream Watcher
 
-
+<p>
 [**2. Fill in your Saga**](https://eriard.github.io/VelherakWeb/Saga.html)
 
 *This is your experiences and legacy*
@@ -53,7 +53,7 @@ layout: page
 
 
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+/*<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
   <div>
     **Column 1**
     Content for the first column goes here.
@@ -62,5 +62,5 @@ layout: page
     **Column 2**
     Content for the second column goes here.
   </div>
-</div>
-----
+</div>*/
+---- 
