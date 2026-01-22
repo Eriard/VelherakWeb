@@ -12,20 +12,18 @@ As a Warden you hold a special role amongst the people, though, through most day
 
 Each Warden carries a **Relic** which is the symbol of their role
 
-> This Sacred Relic have been handed down through the ages. In the Hands of the Warden the Sacred Relic is a symbol of their role in the community and is used in all rites and rituals that they perform.
+> *This Sacred Relic have been handed down through the ages. In the Hands of the Warden the Sacred Relic thrums with dormant power, wielded correctly it becomes a symbol of a wardens role in the community and is used as focus in all rites that they perform.*
 
-Relics are mythical objects of great power, which has gone dormant, yet great power resides.
-
-Infuse them with spirit and a mere sliver of their true power leaks out.
-
-Wardens are empowered by **Rites** that show their skill and wisdom.
-
-> These Sacred Rites are mystical incantations performed by the Warden to gain knowledge or a boon from the spirits. Each Warden has their own Domain of Sacred Rites.
 
 They are burdened with **Sacred Knowledge** which is theirs to know, and only theirs.
 
-> Sacred Knowledge is owned by the Warden and only they may know their ways. It is used to protect their people and keep them unburdened by the dread things of night.
-> 
+> *This Sacred Knowledge is passed down from warden to warden, and only they may know the sacred ways. Nothing is of greater power than knowledge, and through it the Wardens protect their people and keep them unburdened by the dread things.*
+
+
+Wardens are empowered by **Rites** that show their skill and wisdom.
+
+> *These Sacred Rites are inherited from Elder Wardens who keep their workings hidden from unworthy eyes. These mystical incantations are performed by the Warden to Invoke boons for their people to ensure their prosperity and safety.*
+
 
 ---
 
