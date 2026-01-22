@@ -7,40 +7,40 @@ layout: page
   <div style="flex: 1;">
     <h3> 1.Choose a Warden</h3>
 <i>This is the role you hold in the community.<i>
-
-- Spear Sage
-- Wild Walker
-- Dream Watcher
+<br>
+- Spear Sage <br>
+- Wild Walker <br>
+- Dream Watcher 
 
 <p>
 <h3> 2.Fill in your Saga</h3>
-*This is your experiences and legacy*
+<i>This is your experiences and legacy</i> <br>
 
-- Age
-- Saga
+- Age <br>
+- Saga <br>
 - Burden
 
 <h3> 3. Fill in your Attributes</h3>
-*These are your physical and mental capabilities.*
+<i>These are your physical and mental capabilities.</i> <br>
 
-- Traits
-- Skills
+- Traits <br>
+- Skills <br>
 - Potential
 
   </div>
   <div style="flex: 1;">
    <h3> Set up your Vitality</h3>
-*This is your capacity for strain and suffering.*
+<i>This is your capacity for strain and suffering.</i> <br>
 
-- Stress Track
+- Stress Track <br>
 - Trauma Track
 
 <h3> Choose your Tools</h3>
-*These are your everyday tools*
+<i>These are your everyday tools </i><br>
 
-- Items
-	- Instruments
-- Arms
+- Items <br>
+	- Instruments <br>
+- Arms <br>
 
 
   </div>
