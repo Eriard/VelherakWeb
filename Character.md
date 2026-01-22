@@ -5,9 +5,8 @@ layout: page
 ---
 <div style="display: flex; gap: 20px;">
   <div style="flex: 1;">
-    [**<font color="#FF9E02"><h2> 1. Choose a Warden</h2></font> **](https://eriard.github.io/VelherakWeb/Wardens.html)
-
-*This is the role you hold in the community.*
+    <h3> 1. Choose a Warden
+<i>This is the role you hold in the community.<i>
 
 - Spear Sage
 - Wild Walker
