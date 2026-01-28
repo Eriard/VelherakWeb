@@ -1,6 +1,7 @@
 ---
 title: Wardens
 parent: Character
+has_children: true
 layout: page
 nav_order: 0
 ---

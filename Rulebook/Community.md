@@ -1,6 +1,7 @@
 ---
-title: Tables
+title: Community
 parent: Rulebook
+has_children: true
 layout: page
 ---
 

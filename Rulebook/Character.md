@@ -1,8 +1,10 @@
 ---
 title: Character
 parent: Rulebook
+has_children: true
 layout: page
 ---
+
 <div style="display: flex; gap: 20px;">
   <div style="flex: 1;">
     <h3> 1.Choose a Warden</h3>
@@ -47,7 +49,6 @@ layout: page
   </div>
 </div>
 
----- 
 <div style="display: flex; gap: 20px;">
   <div style="flex: 1;">
     <h2> Spirit </h2> <b>

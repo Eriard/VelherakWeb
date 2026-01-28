@@ -2,7 +2,7 @@
 title: Spear Sage
 parent: Wardens
 layout: page
-nav\_order: 0
+nav_order: 0
 ---
 
 # Spear Sage
