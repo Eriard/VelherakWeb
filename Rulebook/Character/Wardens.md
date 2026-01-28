@@ -6,6 +6,15 @@ layout: page
 nav_order: 0
 ---
 
+<head>
+    <style type="text/css">
+        .text {
+            font-weight: bold;
+            color: FF9E02;
+        }
+    </style>
+</head>
+
 # Wardens
 Wardens are the sacred guardians of the people, each archetype holds an important role in their society. A Warden carries many tools, which they use sparingly and only against specific threats.
 
