@@ -16,7 +16,7 @@ Each Warden carries a **Relic** which is the symbol of their role
 > *This Sacred Relic have been handed down through the ages. In the Hands of the Warden the Sacred Relic thrums with dormant power, wielded correctly it becomes a symbol of a wardens role in the community and is used as focus in all rites that they perform.*
 
 
-They are burdened with **Sacred Knowledge** which is theirs to know, and only theirs.
+They are burdened with <b>Sacred Knowledge</b> which is theirs to know, and only theirs.
 
 > *This Sacred Knowledge is passed down from warden to warden, and only they may know the sacred ways. Nothing is of greater power than knowledge, and through it the Wardens protect their people and keep them unburdened by the dread things.*
 
@@ -49,3 +49,7 @@ Dream Watcher
 Choosing Wardens
 Multiple people can choose the same Warden, but we recommend to not exceed two wardens of the same type to balance out the group. If the group is missing a certain type of Warden they can always find an NPC stand in or perform Rituals.
 
+
+b {
+	color: FF9E02;
+}
