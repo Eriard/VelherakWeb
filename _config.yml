@@ -1,5 +1,5 @@
 title: Velherak
-description: A starter template for a Jeykll site using the Just the Docs theme!
+description: A world of Myth and Darkness
 theme: just-the-docs
 plugins:
   - jekyll-redirect-from
