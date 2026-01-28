@@ -4,7 +4,28 @@ parent: Rulebook
 has_children: true
 layout: page
 ---
+<html>
+<head>
+<style>
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
 
+.flex-item {
+  background-color: #301E1E;
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+}
+
+@media (max-width: 600px) {
+  .flex-container {
+    flex-direction: column;
+  }
+}
+</style> </head>
+<body>
 <div style="display: flex; gap: 20px;">
   <div style="flex: 1;">
     <h3> 1.Choose a Warden</h3>
@@ -48,3 +69,5 @@ layout: page
 - Arms 
   </div>
 </div>
+</body>
+</html>

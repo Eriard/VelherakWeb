@@ -18,21 +18,4 @@ $border-color: #4D4643;//$grey-dk-200;
 @import "./vendor/accessible-pygments/github-dark";
 
 // $grey-dk-300
-.flex-container {
-  display: flex;
-  flex-direction: row;
-}
 
-.flex-item {
-  background-color: #301E1E;
-  padding: 10px;
-  text-align: center;
-  width: 100%;
-}
-
-/* Make a one column-layout instead of three-column layout */
-@media (max-width: 600px) {
-  .flex-container {
-    flex-direction: column;
-  }
-}
