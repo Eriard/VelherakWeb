@@ -8,13 +8,13 @@ nav_order: 0
 
 <head>
     <style type="text/css">
-        .text {
+        b {
             font-weight: bold;
             color: FF9E02;
         }
     </style>
 </head>
-<body>
+
 # Wardens
 Wardens are the sacred guardians of the people, each archetype holds an important role in their society. A Warden carries many tools, which they use sparingly and only against specific threats.
 
@@ -57,5 +57,3 @@ Dream Watcher
 
 Choosing Wardens
 Multiple people can choose the same Warden, but we recommend to not exceed two wardens of the same type to balance out the group. If the group is missing a certain type of Warden they can always find an NPC stand in or perform Rituals.
-
-</body>
