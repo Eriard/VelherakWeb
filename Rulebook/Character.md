@@ -4,7 +4,6 @@ parent: Rulebook
 has_children: true
 layout: page
 ---
-<html>
 <head>
 <style>
 .flex-container {
@@ -26,8 +25,9 @@ layout: page
 }
 </style> </head>
 <body>
-<div style="display: flex; gap: 20px;">
-  <div style="flex: 1;">
+
+<div class="flex-container">
+  <div class="flex-item">
     <h3> 1.Choose a Warden</h3>
     
 <i>This is the role you hold in the community.</i><br>
@@ -53,7 +53,7 @@ layout: page
 
 </div>
 
-  <div style="flex: 1;">
+  <div class="flex-item">
    <h3> 4. Set your Vitality</h3>
 <i>This is your capacity for strain and suffering.</i> <br>
 
@@ -70,4 +70,3 @@ layout: page
   </div>
 </div>
 </body>
-</html>
