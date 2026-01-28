@@ -21,8 +21,8 @@ layout: page
 @media (max-width: 600px) {
   .flex-container {
     flex-direction: column;
-    text-align: center;
   }
+  
 }
 </style> </head>
 <body>
