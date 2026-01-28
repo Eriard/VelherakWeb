@@ -14,13 +14,14 @@ layout: page
 .flex-item {
   background-color: #301E1E;
   padding: 10px;
-  text-align: center;
+  text-align: left;
   width: 100%;
 }
 
 @media (max-width: 600px) {
   .flex-container {
     flex-direction: column;
+    text-align: center;
   }
 }
 </style> </head>
@@ -50,7 +51,6 @@ layout: page
 - Traits <br> 
 - Skills <br>
 - Potential
-
 </div>
 
   <div class="flex-item">
