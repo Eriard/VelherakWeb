@@ -11,7 +11,7 @@ Wardens are the sacred guardians of the people, each archetype holds an importan
 
 As a Warden you hold a special role amongst the people, though, through most days you are a fellow member of the community partaking in hunts, gatherings, preparations and crafting, but when the shadows grow long and omens appear, you must don the mantle of Warden yet again.
 
-Each Warden carries a <font color=“FF9E02”>Relic</font> which is the symbol of their role
+Each Warden carries a <span style=“color:FF9E02”>Relic</span> which is the symbol of their role
 
 > *This Sacred Relic have been handed down through the ages. In the Hands of the Warden the Sacred Relic thrums with dormant power, wielded correctly it becomes a symbol of a wardens role in the community and is used as focus in all rites that they perform.*
 
