@@ -28,19 +28,19 @@ Wardens are empowered by <font color="#FF9E02">  Rites </font> that show their s
 
 ---
 
-<font color="#FF9E02"> **Spear Sage** </font>
+<font color="#FF9E02"> <b>Spear Sage</b> </font>
 
 > Wield the Hallowed Spear to protect your people from the hungry beasts or shambling monsters.
 
 ---
 
-<font color="#FF9E02">  **Wild Walker** </font>
+<font color="#FF9E02">  <b>Wild Walker</b> </font>
 
 > Wander through the wilds, keep the paths of old, rediscover and make solid that which once was lost.
 
 ---
 
-<font color="#FF9E02">  **Dream Watcher**
+<font color="#FF9E02">  <b>Dream Watcher</b> </font>
 
 > Meditate on the anchor and enter deep dreamlike trances that lets you traverse the dreaming wilds and protect your people.
 
