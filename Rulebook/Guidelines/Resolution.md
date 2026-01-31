@@ -7,19 +7,21 @@ nav_order: 0
 
 # Resolution
 
-### Rolling Dice
+## Rolling Dice
 Pool of 10 sided dice (d10)
 Rolling a 8, 9, or 10 gains you a success.
 
 Some actions may require more than one success to be rolled.
 
-### Difficulty
-Tricky - 1 Success
-Challenging - 2 Successes
-Extraordinary - 4 Successes
-Legendary - 6 Successes
+## Difficulty
+**Tricky**
+The base difficulty for most tasks
+-  - 1 Success
+- Challenging - 2 Successes
+- Extraordinary - 4 Successes
+- Legendary - 6 Successes
 
-### Success // TODO: REWRITE
+## Success
 **Complete success** - You rolled at the difficulty and gained a complete success with no drawbacks. 
 
 **Mixed success** you rolled below the difficulty, you accomplished the task, but there are consequences.
