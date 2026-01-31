@@ -9,7 +9,7 @@ Is a tabletop roleplaying game where the players dive into a forgotten time of m
 
 <font color="#FF9E02"> USON </font> is a game about community, mystery and surviving in a strange yet beautiful unforgiving world. It is played by up to six players where one player takes the role of Storyteller and the others become the Wardens.
 
-> <font color="#FF9E02"> <b>Under Shadow of Night</b> </font> is currently in early access and will be developed with the input of the community. Please feel free to join our discord and the journey of this Stone Age Horror roleplaying game.
+> **Under Shadow of Night** is currently in early access and will be developed with the input of the community. Please feel free to join our discord and the journey of this Stone Age Horror roleplaying game.
 
 > All the rules are uploaded for free under the XXX license.
 
