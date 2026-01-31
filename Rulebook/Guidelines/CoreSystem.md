@@ -1,5 +1,5 @@
 ---
-title: Player
+title: Core System
 parent: Guidelines
 has_children: true
 layout: page
