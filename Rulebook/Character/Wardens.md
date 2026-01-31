@@ -46,5 +46,5 @@ Wardens are empowered by <font color="#FF9E02">  Rites </font> that show their s
 
 ---
 
-<b>Choosing Wardens</b>
+**Choosing Wardens**
 Multiple people can choose the same Warden, but we recommend to not exceed two wardens of the same type to balance out the group. If the group is missing a certain type of Warden they can always find an NPC stand in or perform Rituals.
