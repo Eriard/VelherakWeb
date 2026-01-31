@@ -1,8 +1,22 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Velherak
+description: A world of Myth and Darkness
 theme: just-the-docs
+plugins:
+  - jekyll-redirect-from
 
 url: https://just-the-docs.github.io
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+logo: "/assets/images/TestLogoWeb.png"
+favicon_ico: "/assets/images/faviconWhite.ico"
+
+color_scheme: test
+
+
+callouts:
+  info:
+    title: Info
+    color: blue
+    
+search_enabled: false
+search.button: false

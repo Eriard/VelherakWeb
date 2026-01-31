@@ -1,0 +1,26 @@
+
+
+//@import "./color_schemes/dark";
+//$link-color: $orange-000;
+
+header {
+    background: #301E1E;
+}
+nav menu {
+    background: #301E1E;
+}
+
+body {
+    background: #301E1E;
+    background: linear-gradient(45deg, rgba(48, 30, 30, 1) 88%, rgba(255, 158, 2, 1) 100%);
+    /*
+background: #301E1E;
+background: -webkit-linear-gradient(45deg, rgba(48, 30, 30, 1) 46%, rgba(255, 158, 2, 1) 100%);
+background: -moz-linear-gradient(45deg, rgba(48, 30, 30, 1) 46%, rgba(255, 158, 2, 1) 100%);
+background: linear-gradient(45deg, rgba(48, 30, 30, 1) 46%, rgba(255, 158, 2, 1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#301E1E", endColorstr="#FF9E02", GradientType=0);
+*/
+
+
+//background: linear-gradient(45deg, rgba(48, 30, 30, 1) 46%, rgba(255, 158, 2, 1) 100%);
+}
