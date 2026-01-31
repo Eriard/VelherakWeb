@@ -2,11 +2,10 @@
 title: Actions
 parent: Guidelines
 layout: page
-nav_order: 1
+nav_order: 0
 ---
 
 # Actions
-
 When performing actions you are always either attempting to overcome a challenge, using traits and skills, or overcoming a conflict, using traits and intents.
 
 You simply explain what you want to do, and the Storyteller will tell you which attributes to combine for the desired result.
