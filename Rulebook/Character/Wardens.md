@@ -28,23 +28,23 @@ Wardens are empowered by <font color="#FF9E02">  Rites </font> that show their s
 
 ---
 
-<font color="#FF9E02"> <b>Spear Sage</b> </font>
+**Spear Sage**
 
 > Wield the Hallowed Spear to protect your people from the hungry beasts or shambling monsters.
 
 ---
 
-<font color="#FF9E02">  <b>Wild Walker</b> </font>
+**Wild Walker**
 
 > Wander through the wilds, keep the paths of old, rediscover and make solid that which once was lost.
 
 ---
 
-<font color="#FF9E02">  <b>Dream Watcher</b> </font>
+**Dream Watcher**
 
 > Meditate on the anchor and enter deep dreamlike trances that lets you traverse the dreaming wilds and protect your people.
 
 ---
 
-**Choosing Wardens**
+<b>Choosing Wardens</b>
 Multiple people can choose the same Warden, but we recommend to not exceed two wardens of the same type to balance out the group. If the group is missing a certain type of Warden they can always find an NPC stand in or perform Rituals.
