@@ -27,19 +27,21 @@ These are rare tasks that offer true challenge to complete. They take 4 Successe
 These are acts of legend, rarely done. They take 6 Successes to reach.
 
 ## Success
-**Complete success** - You rolled at the difficulty and gained a complete success with no drawbacks. 
+**Complete success**\
+You rolled at the difficulty and gained a complete success with no drawbacks. 
 
-**Mixed success** you rolled below the difficulty, you accomplished the task, but there are consequences.
+**Mixed success**\
+You rolled below the difficulty, you accomplished the task, but there are consequences.
 
-**Failure**
+**Failure**\
 You rolled no success and suffer a narrative complication or drawback of some kind.
 
 ---
 
-**Dramatic Success**
+**Dramatic Success**\
 You rolled above the difficulty and chose to spend one insight and pushed your complete success into a dramatic success which made your actions extra effective.   
 Gain 2 Spirit.
 
-**Dramatic Failure**
+**Dramatic Failure**\
 You chose to push your failure into a Dramatic failure and gain a disastrous drawback.   
 Gain 1 Insight.
