@@ -27,11 +27,6 @@ Each player chooses to create either a Mystery, Omen or Hearsay
   text-align: left;
   width: 100%;
 }
-
-.display-block{
-	
-}
-
 @media (max-width: 600px) {
   .flex-container {
     flex-direction: column;
