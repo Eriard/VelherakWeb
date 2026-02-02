@@ -15,7 +15,7 @@ Each player chooses to create either a Mystery, Omen or Hearsay
 > Mysteries are intriguing parts of the community that the people themselves don’t necessarily understand, but may have started using or taking advantage of.
 
 <head>
-<style>
+	<style>
 .flex-container {
   display: flex;
   flex-direction: row;
@@ -33,7 +33,8 @@ Each player chooses to create either a Mystery, Omen or Hearsay
   }
   
 }
-</style> </head>
+	</style> 
+</head>
 
 <body>
 	<div class="flex-container">
@@ -71,7 +72,7 @@ Guides travellers home
 			</div>
 		</div>
 	</div>
-	</body>
+</body>
 	
 	
 ## Omens
@@ -84,7 +85,7 @@ These are harbingers of doom or blessings upon the community. Each warden create
 	  <div class="flex-item">
 <h4>What</h4>
 
-<q>What did you See / Hear / Smell<q>
+What did you See / Hear / Smell
 
 1 - A Three Headed Crow <br>
 2 - Nothing, only Utter Silence <br>
@@ -100,7 +101,7 @@ These are harbingers of doom or blessings upon the community. Each warden create
 	<div class="flex-item">
 <h4>Where d10</h4>
 
-<q>Where did you experience this Omen</q>
+Where did you experience this Omen
 
 1-2 - In a Dream <br>
 3-4 - In a Vision <br>
@@ -116,7 +117,7 @@ These are harbingers of doom or blessings upon the community. Each warden create
 <div class="flex-item">
 <h4>Why d10</h4>
 
-<q>What do you think it means?</q>
+What do you think it means?
 
 1 - It symbolises coming sickness <br>
 2 - It symbolises coming tragedy <br>
