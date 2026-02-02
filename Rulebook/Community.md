@@ -27,7 +27,10 @@ layout: page
 </style> </head>
 <body>
 
+# Creating a Community
+
 The community is the home of the Wardens. It may not have been their birthplace but it has still become an important part of their life as a place, people and memory they wish to protect.
+
 <div class="flex-container">
   <div class="flex-item">
     <h3> 1. Choose Circle</h3>
