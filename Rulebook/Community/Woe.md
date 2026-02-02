@@ -28,6 +28,10 @@ Each player chooses to create either a Mystery, Omen or Hearsay
   width: 100%;
 }
 
+.display-block{
+	
+}
+
 @media (max-width: 600px) {
   .flex-container {
     flex-direction: column;
@@ -36,12 +40,11 @@ Each player chooses to create either a Mystery, Omen or Hearsay
 }
 </style> </head>
 <body>
-<span style =“display:block”>
 	<div class="flex-container">
 	  <div class="flex-item">
-  
+  <span style =“display:block”>
 #### What is it:
-
+</span>
 <hr class="solid">
 
 A Black Obelisk <br>
@@ -72,7 +75,6 @@ Guides travellers home
 			</div>
 		</div>
 	</div>
-</span>
 ## Omens
 
 <q> These are the signs of things to come.</q>
