@@ -49,6 +49,7 @@ A furred child <br>
 A Burning Bush <br>
 A Talking Animal
 </div>
+
 <div class="flex-item">
  <h4>What it does:</h4>
 
@@ -60,6 +61,7 @@ It offers a secret pact <br>
 It moves unseen
 
 </div>
+
 <div class="flex-item">
  <h4> How it affects us:<h4>
 
@@ -80,9 +82,11 @@ Guides travellers home
 > These are the signs of things to come.
 
 These are harbingers of doom or blessings upon the community. Each warden creates an Omen for themselves or by rolling on the three tables below. They then share how they experienced this omen with the group and Storyteller.
+
 <body>
 	<div class="flex-container">
 	  <div class="flex-item">
+	  
 <h4>What</h4>
 
 What did you See / Hear / Smell
@@ -98,7 +102,8 @@ What did you See / Hear / Smell
 9 - Strange Markings upon the skin <br>
 10 - Nine eyes gazing upon you
 	</div>
-	<div class="flex-item">
+	
+<div class="flex-item">
 <h4>Where d10</h4>
 
 Where did you experience this Omen
@@ -111,9 +116,8 @@ Where did you experience this Omen
 8 - On the Wind <br>
 9 - Within the Flames <br>
 10 - In the Shadows
-
-
 </div>
+
 <div class="flex-item">
 <h4>Why d10</h4>
 
@@ -129,9 +133,7 @@ What do you think it means?
 8 - It symbolises coming abundance <br>
 9 - It symbolises the waking of a god <br>
 10 - It symbolises the coming of the end
-			</div>
-		</div>
-	</div>
+</div></div></div>
 </body>
 
 ## Hearsay
