@@ -4,7 +4,7 @@ parent: Guidelines
 layout: page
 nav_order: 3
 ---
-
+S
 # Adversaries
 
 > This section details how enemies, or adversaries as we call them, work.
