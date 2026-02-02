@@ -53,7 +53,7 @@ The community is the home of the Wardens. It may not have been their birthplace 
 - Scale <br>
 - Landscape <br>
 - Name
-
+</div>
 <div class="flex-item">
    <h3> 4. Add Substance to the Community</h3>
 
