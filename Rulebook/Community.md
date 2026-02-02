@@ -26,6 +26,7 @@ layout: page
 }
 </style> </head>
 <body>
+
 The community is the home of the Wardens. It may not have been their birthplace but it has still become an important part of their life as a place, people and memory they wish to protect.
 <div class="flex-container">
   <div class="flex-item">
@@ -64,13 +65,14 @@ The community is the home of the Wardens. It may not have been their birthplace 
 - Havens <br>
 - Traditions 
 
-<h3>5. Woe <h3>
+<h3>5. Woe</h3>
 
 <i>These are what occupies and distracts your character</i><br>
 
 - Mysteries<br>
 - Omens<br>
 - Hearsay
-- </div>
-</div>
+
+		</div>
+	</div>
 </body>
