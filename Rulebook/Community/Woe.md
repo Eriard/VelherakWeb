@@ -76,7 +76,7 @@ Guides travellers home
 	
 ## Omens
 
-<q> These are the signs of things to come.</q>
+> These are the signs of things to come.
 
 These are harbingers of doom or blessings upon the community. Each warden creates an Omen for themselves or by rolling on the three tables below. They then share how they experienced this omen with the group and Storyteller.
 <body>
@@ -134,7 +134,7 @@ in flesh
 <div class="flex-item">
 <h4>Why d10</h4>
 
-> What do you think it means?
+<q>What do you think it means?</q>
 
 1 - It symbolises coming sickness
 
