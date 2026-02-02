@@ -86,24 +86,15 @@ These are harbingers of doom or blessings upon the community. Each warden create
 
 <q>What did you See / Hear / Smell<q>
 
-1 - A Three Headed Crow
-
-2 - Nothing, only Utter Silence
-
-3 - Terrible and unnatural screaming
-
-4 - A long dead loved one / Rival
-
-5 - The Stench of death in water
-
-6 - A Bleating Headless Fawn
-
-7 - A man bathing in a river without a face
-
-8 - Flames streaking across the heavens
-
-9 - Strange Markings upon the skin
-
+1 - A Three Headed Crow <br>
+2 - Nothing, only Utter Silence <br>
+3 - Terrible and unnatural screaming <br>
+4 - A long dead loved one / Rival <br>
+5 - The Stench of death in water <br>
+6 - A Bleating Headless Fawn <br>
+7 - A man bathing in a river without a face <br>
+8 - Flames streaking across the heavens <br>
+9 - Strange Markings upon the skin <br>
 10 - Nine eyes gazing upon you
 	</div>
 	<div class="flex-item">
@@ -111,53 +102,35 @@ These are harbingers of doom or blessings upon the community. Each warden create
 
 <q>Where did you experience this Omen</q>
 
-1-2 - In a Dream
-
-3-4 - In a Vision
-
-5 - In the Mists
-
-6 - In the Wilds
-
-7 - Amongst the People
-
-8 - On the Wind
-
-9 - Within the Flames
-
+1-2 - In a Dream <br>
+3-4 - In a Vision <br>
+5 - In the Mists <br>
+6 - In the Wilds <br>
+7 - Amongst the People <br>
+8 - On the Wind <br>
+9 - Within the Flames <br>
 10 - In the Shadows
 
-in water
 
-in flesh
 </div>
 <div class="flex-item">
 <h4>Why d10</h4>
 
 <q>What do you think it means?</q>
 
-1 - It symbolises coming sickness
-
-2 - It symbolises coming tragedy
-
-3 - It symbolises coming death
-
-4 - It symbolises coming change
-
-5 - It symbolises coming truth
-
-6 - It symbolises the presence of a spirit
-
-7 - It symbolises coming calamity
-
-8 - It symbolises coming abundance
-
-9 - It symbolises the waking of a god
-
+1 - It symbolises coming sickness <br>
+2 - It symbolises coming tragedy <br>
+3 - It symbolises coming death <br>
+4 - It symbolises coming change <br>
+5 - It symbolises coming truth <br>
+6 - It symbolises the presence of a spirit <br>
+7 - It symbolises coming calamity <br>
+8 - It symbolises coming abundance <br>
+9 - It symbolises the waking of a god <br>
 10 - It symbolises the coming of the end
-</div>
-</div>
-</div>
+			</div>
+		</div>
+	</div>
 </body>
 
 ## Hearsay
