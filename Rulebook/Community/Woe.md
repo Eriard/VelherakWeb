@@ -39,7 +39,7 @@ Each player chooses to create either a Mystery, Omen or Hearsay
 <div markdown=1>
 <div class="flex-container">
   <div class="flex-item">
-<h4>What is it:</h4>
+#### What is it:
 
 <hr class="solid">
 
