@@ -4,34 +4,73 @@ parent: Rulebook
 has_children: true
 layout: page
 ---
+<head>
+<style>
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+.flex-item {
+  background-color: #301E1E;
+  padding: 10px;
+  text-align: left;
+  width: 100%;
+}
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+@media (max-width: 600px) {
+  .flex-container {
+    flex-direction: column;
+  }
+  
+}
+</style> </head>
+<body>
+The community is the home of the Wardens. It may not have been their birthplace but it has still become an important part of their life as a place, people and memory they wish to protect.
+<div class="flex-container">
+  <div class="flex-item">
+    <h3> 1. Choose Circle</h3>
 
-More specifically, the created site:
+<i>This is how your group is known in the community</i> <br>
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+- Name <br>
+- Meaning
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+<h3>2. Forge your Bonds</h3>
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+<i>These are people that are important to your character</i><br>
 
-To get started with creating a site, simply:
+- Duty <br>
+- Fate <br>
+- Blood <br>
+- Love <br>
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+<h3>3. Place your Settlement</h3>
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+<i>This is the main settlement of the Community</i><br>
 
-----
+- Scale <br>
+- Landscape <br>
+- Name
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+<div class="flex-item">
+   <h3> 4. Add Substance to the Community</h3>
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+<i>These are elements that make up your community</i><br>
+
+- People <br>
+- Hermits <br>
+- Shrines <br>
+- Havens <br>
+- Traditions 
+
+<h3>5. Woe <h3>
+
+<i>These are what occupies and distracts your character</i><br>
+
+- Mysteries<br>
+- Omens<br>
+- Hearsay
+- </div>
+</div>
+</body>
