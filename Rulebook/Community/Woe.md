@@ -36,8 +36,9 @@ Each player chooses to create either a Mystery, Omen or Hearsay
 }
 </style> </head>
 <body>
-<div class="tip" markdown="1">
+
 <div class="flex-container">
+<span class “note”>
   <div class="flex-item">
   
 #### What is it:
@@ -71,6 +72,7 @@ Voices whisper secrets <br>
 Guides travellers home
 		</div>
 		</div>
+		</span>
 	</div>
 
 ## Omens
