@@ -34,7 +34,6 @@ As a Sibling\
 As a Child
 
 ### Love
-
 Through Friendship \
 Through Passion \
 Through Respect
