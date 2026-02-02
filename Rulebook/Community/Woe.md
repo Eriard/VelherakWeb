@@ -37,9 +37,8 @@ Each player chooses to create either a Mystery, Omen or Hearsay
 </style> </head>
 <body>
 <span style =“display:block”>
-<div class="flex-container">
-
-  <div class="flex-item">
+	<div class="flex-container">
+	  <div class="flex-item">
   
 #### What is it:
 
@@ -70,11 +69,10 @@ Protects the sleeping <br>
 Causes obsession <br>
 Voices whisper secrets <br>
 Guides travellers home
+			</div>
 		</div>
-		</div>
-		</span>
 	</div>
-
+</span>
 ## Omens
 
 <q> These are the signs of things to come.</q>
