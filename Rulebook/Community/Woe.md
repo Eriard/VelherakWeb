@@ -36,51 +36,43 @@ Each player chooses to create either a Mystery, Omen or Hearsay
 }
 </style> </head>
 <body>
-<div class="flex-container">
+<div class="flex-container" markdown=“1”>
   <div class="flex-item">
-**What is it:**
+<h4>What is it:</h4>
 
----
+<hr class="solid">
 
-A Black Obelisk
-
-A furred child
-
-A Burning Bush
-
+A Black Obelisk <br>
+A furred child <br>
+A Burning Bush <br>
 A Talking Animal
 </div>
 <div class="flex-item">
- **What it does:**
+ <h4>What it does:</h4>
 
----
+<hr class="solid">
 
-It hums at night
-
-It whispers in riddles
-
-It offers a secret pact
-
+It hums at night <br>
+It whispers in riddles <br>
+It offers a secret pact <br>
 It moves unseen
+
 </div>
 <div class="flex-item">
- **How it affects us:**
+ <h4> How it affects us:<h4>
 
----
+<hr class="solid">
 
-Protects the sleeping
-
-Causes obsession
-
-Voices whisper secrets
-
+Protects the sleeping <br>
+Causes obsession <br>
+Voices whisper secrets <br>
 Guides travellers home
 		</div>
 	</div>
 
 ## Omens
 
-> These are the signs of things to come.
+<q> These are the signs of things to come.</q>
 
 These are harbingers of doom or blessings upon the community. Each warden creates an Omen for themselves or by rolling on the three tables below. They then share how they experienced this omen with the group and Storyteller.
 
