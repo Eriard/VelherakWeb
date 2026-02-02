@@ -34,12 +34,13 @@ Each player chooses to create either a Mystery, Omen or Hearsay
   
 }
 </style> </head>
+
 <body>
 	<div class="flex-container">
 	  <div class="flex-item">
-  <span style=“display:block”>
-#### What is it:
-</span>
+
+<h4>What is it:</h4>
+
 <hr class="solid">
 
 A Black Obelisk <br>
@@ -70,15 +71,20 @@ Guides travellers home
 			</div>
 		</div>
 	</div>
+	</body>
+	
+	
 ## Omens
 
 <q> These are the signs of things to come.</q>
 
 These are harbingers of doom or blessings upon the community. Each warden creates an Omen for themselves or by rolling on the three tables below. They then share how they experienced this omen with the group and Storyteller.
+<body>
+	<div class="flex-container">
+	  <div class="flex-item">
+<h4>What</h4>
 
-**What**
-
-> What did you See / Hear / Smell
+<q>What did you See / Hear / Smell<q>
 
 1 - A Three Headed Crow
 
@@ -99,10 +105,11 @@ These are harbingers of doom or blessings upon the community. Each warden create
 9 - Strange Markings upon the skin
 
 10 - Nine eyes gazing upon you
+	</div>
+	<div class="flex-item">
+<h4>Where d10</h4>
 
-**Where d10**
-
-> Where did you experience this Omen
+<q>Where did you experience this Omen</q>
 
 1-2 - In a Dream
 
@@ -123,8 +130,9 @@ These are harbingers of doom or blessings upon the community. Each warden create
 in water
 
 in flesh
-
-**Why d10**
+</div>
+<div class="flex-item">
+<h4>Why d10</h4>
 
 > What do you think it means?
 
@@ -147,6 +155,10 @@ in flesh
 9 - It symbolises the waking of a god
 
 10 - It symbolises the coming of the end
+</div>
+</div>
+</div>
+</body>
 
 ## Hearsay
 
