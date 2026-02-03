@@ -7,6 +7,60 @@ layout: page
 # Tables
 Any and all tables are examples, you can roll on them using d10s or simply picking and choosing or take inspiration from them to craft your own unique scenarios, characters, cults, raiders and Velherak. 
 
+# Characters
+
+## Names d100
+
+| **d100** | **Titles** | **Native Names** |
+| --- | --- | --- |
+| **1-5** | Moonsinger | Neima |
+| **6-10** | Boneweaver | Noba |
+| **11-15** | Manyhands | Iiassan |
+| **16-20** | Nightpaw | Thera |
+| **21-25** | Falling Goose | t’Suna |
+| **26-30** | Gnawing Rat | Òran |
+| **31-35** | Nightsrain | Oweir’ |
+| **36-40** | Swiftwind | Goolar |
+| **41-45** | Leaping Frog | t’Eimor |
+| **46-50** | Summersbreeze | Imori |
+| **51-55** | Blunt spoon | Sabía |
+| **56-60** | Sharp Tooth | Nozo |
+| **61-65** | Hawkeye | Naroul |
+| **66-70** | Riversong | t´Yuuka |
+| **71-75** | Climbing Bear | t´Maru |
+| **76-80** | Sleeping Aurox | Yuron |
+| **81-85** | Little Acorn | Belnaar |
+| **86-90** | Large Boulder | t´Iarno |
+| **91-95** | Gentle Flame | Geiwan |
+| **96-100** | Fluttering Sparrow | Rwnda |
+
+## Details d100
+
+*Feel free to roll multiple features, desires and traits for a single character to add to their depth.*
+
+| **d100** | **Features** | **Desire** | **Traits** |
+| --- | --- | --- | --- |
+| **1-5** | Tall | Gratification | Brash |
+| **6-10** | Short | Grace | Kind |
+| **11-15** | Aged | Food | Quiet |
+| **16-20** | Young | Worship | Loud |
+| **21-25** | Weak | Competence | Wise |
+| **26-30** | Brawny | Freedom | Cunning |
+| **31-35** | Fast | Protection | Cowardly |
+| **36-40** | Beautiful | Knowledge | Stubborn |
+| **41-45** | Slender | Accomplishment | Impatient |
+| **46-50** | Scrawny | Fun | Submissive |
+| **51-55** | Pale | Justice | Empathetic |
+| **56-60** | Freckled | Family | Generous |
+| **61-65** | Long Face | Vengeance | Loyal |
+| **66-70** | Wide Eyes | Tranquility | Brave |
+| **71-75** | Rough Skin | Carnal | Creative |
+| **76-80** | Scarred | Friendship | Optimistic |
+| **81-85** | Cursed | Acceptance | Pessimistic |
+| **86-90** | Blessed | Status | Realistic |
+| **91-95** | Malformed | Loyalty | Honest |
+| **96-100** | Elongated Limbs | Order | Vain |
+
 # Environment
 
 ## Weather
@@ -182,59 +236,7 @@ The people are hungry - its been a sennight since any animal have been seen in t
 | **9** | Kinship | No hideout, the valley and wilds are your playground. |
 | **10** | Status | In the Maw of an dead giant beast |
 
-# Characters
 
-## Names d100
-
-| **d100** | **Titles** | **Native Names** |
-| --- | --- | --- |
-| **1-5** | Moonsinger | Neima |
-| **6-10** | Boneweaver | Noba |
-| **11-15** | Manyhands | Iiassan |
-| **16-20** | Nightpaw | Thera |
-| **21-25** | Falling Goose | t’Suna |
-| **26-30** | Gnawing Rat | Òran |
-| **31-35** | Nightsrain | Oweir’ |
-| **36-40** | Swiftwind | Goolar |
-| **41-45** | Leaping Frog | t’Eimor |
-| **46-50** | Summersbreeze | Imori |
-| **51-55** | Blunt spoon | Sabía |
-| **56-60** | Sharp Tooth | Nozo |
-| **61-65** | Hawkeye | Naroul |
-| **66-70** | Riversong | t´Yuuka |
-| **71-75** | Climbing Bear | t´Maru |
-| **76-80** | Sleeping Aurox | Yuron |
-| **81-85** | Little Acorn | Belnaar |
-| **86-90** | Large Boulder | t´Iarno |
-| **91-95** | Gentle Flame | Geiwan |
-| **96-100** | Fluttering Sparrow | Rwnda |
-
-## Details d100
-
-*Feel free to roll multiple features, desires and traits for a single character to add to their depth.*
-
-| **d100** | **Features** | **Desire** | **Traits** |
-| --- | --- | --- | --- |
-| **1-5** | Tall | Gratification | Brash |
-| **6-10** | Short | Grace | Kind |
-| **11-15** | Aged | Food | Quiet |
-| **16-20** | Young | Worship | Loud |
-| **21-25** | Weak | Competence | Wise |
-| **26-30** | Brawny | Freedom | Cunning |
-| **31-35** | Fast | Protection | Cowardly |
-| **36-40** | Beautiful | Knowledge | Stubborn |
-| **41-45** | Slender | Accomplishment | Impatient |
-| **46-50** | Scrawny | Fun | Submissive |
-| **51-55** | Pale | Justice | Empathetic |
-| **56-60** | Freckled | Family | Generous |
-| **61-65** | Long Face | Vengeance | Loyal |
-| **66-70** | Wide Eyes | Tranquility | Brave |
-| **71-75** | Rough Skin | Carnal | Creative |
-| **76-80** | Scarred | Friendship | Optimistic |
-| **81-85** | Cursed | Acceptance | Pessimistic |
-| **86-90** | Blessed | Status | Realistic |
-| **91-95** | Malformed | Loyalty | Honest |
-| **96-100** | Elongated Limbs | Order | Vain |
 
 # Myth Tables
 
