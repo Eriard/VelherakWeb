@@ -75,13 +75,13 @@ Any and all tables are examples, you can roll on them using d10s or simply picki
 
 ## Seasons
 
-| **d10** | **Season of** |  |
+| **d10** | **Season of** | **Special Season** |
 | --- | --- | --- |
 | **1-2** | Rain | Flood  |
 | **3-4** | Light | Drought |
 | **5-6** | Storms | Flame |
 | **7-8** | Night | Silence |
-| **9-10** | Special | Pestilence |
+| **9-10** | Roll Special | Pestilence |
 
 # Encounters
 
