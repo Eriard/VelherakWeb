@@ -239,27 +239,16 @@ The people are hungry - its been a sennight since any animal have been seen in t
 
 A creature of Myth may have a certain behaviours. They may also follow laws they must abide, and may be bound to shrines where they can be communed with.
 
-### Behaviour d10
+### Behaviour & Laws d10
 
-| **d10** | **Behaviour** |
-| --- | --- |
-| **1 - 2** | Indifferent |
-| **3 - 4** | Playful |
-| **5 - 6** | Wicked |
-| **7 - 8** | Mischievous |
-| **9** | Benevolent |
-| **10** | Malicious |
-
-### Laws d10
-
-| **d10** | **Laws** |
-| --- | --- |
-| **1 - 2** | Cannot pass thresholds without invite |
-| **3 - 4** | Must extinguish all flames |
-| **5 - 6** | Cannot walk in Light |
-| **7 - 8** | Cannot pass running water |
-| **9** | Cannot cause Harm |
-| **10** | Must Consume All Life |
+| **d10** | **Behaviour** | **Laws** |
+| --- | --- | --- |
+| **1 - 2** | Indifferent | Cannot pass thresholds without invite |
+| **3 - 4** | Playful | Must extinguish all flames |
+| **5 - 6** | Wicked | Cannot walk in Light |
+| **7 - 8** | Mischievous | Cannot pass running water |
+| **9** | Benevolent | Cannot cause Harm |
+| **10** | Malicious | Must Consume All Life |
 
 ### Shrines d10
 
