@@ -56,10 +56,11 @@ Each player chooses one element of substance to forge and add to the community. 
 - Reaper <br>
 
 </div>
-
-<div class=“flex-item”>
+	  <div class="flex-item">
+	  
 <b>Status</b>
 <hr class="solid">
+
 - Admired <br>
 - Feared <br>
 - Shunned <br>
@@ -102,8 +103,7 @@ Feel free to use the Character tables on page.XX to further flesh out these char
 - Peace <br>
 - Protection <br>
 </div>
-
-<div class=“flex-item”>
+	  <div class="flex-item">
 
 <b>Distance Near/Far</b>
 
@@ -111,8 +111,7 @@ Nearby
 
 Far Away
 </div>
-
-<div class=“flex-item”>
+	  <div class="flex-item">
 
 <b>Scale Small/Large</b>
 
@@ -161,8 +160,7 @@ Vast
 - A Wise <br>
 - A Harbinger <br>
 </div>
-
-<div class=“flex-item”>
+	  <div class="flex-item">
 
 <b>Why did they leave?</b>
 <hr class="solid">
@@ -174,9 +172,8 @@ Vast
 - They were grievously scarred <br>
 - They are hunted by a monster <br>
 </div>
-
-<div class=“flex-item”>
-
+	  <div class="flex-item">
+	  
 <b>What do they desire</b>
 
 <hr class="solid">
@@ -212,8 +209,7 @@ Vast
 - Spirit <br>
 
 </div>
-
-<div class=“flex-item”>
+	  <div class="flex-item">
 
 <b>What do they offer in return of worship?</b>
 <hr class="solid">
@@ -222,8 +218,7 @@ Vast
 - Protection against Evil <br>
 - Protection against Shadows <br>
 </div>
-
-<div class=“flex-item”>
+	  <div class="flex-item">
 
 <b>What is its state</b>
 <hr class="solid">
@@ -250,8 +245,7 @@ Vast
 - A Hermit <br>
 - Unseen Forces <br>
 </div>
-
-<div class="flex-item">
+	  <div class="flex-item">
 
 <b>How is it hidden?</b>
 <hr class="solid">
