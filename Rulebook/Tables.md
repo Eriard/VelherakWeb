@@ -7,11 +7,11 @@ layout: page
 # Tables
 Any and all tables are examples, you can roll on them using d10s or simply picking and choosing or take inspiration from them to craft your own unique scenarios, characters, cults, raiders and Velherak. 
 
-# Adventure Tables
+# Environment
 
 ## Weather
 
-| **d10** | Type | Intensity |
+| **d10** | **Type** | **Intensity** |
 | --- | --- | --- |
 | **1-2** | Sunny | Gentle |
 | **3-4** | Cloudy | Moderate |
@@ -21,7 +21,7 @@ Any and all tables are examples, you can roll on them using d10s or simply picki
 
 ## Seasons
 
-| **d10** | Season of |  |
+| **d10** | **Season of** |  |
 | --- | --- | --- |
 | **1-2** | Rain |  |
 | **3-4** | Light |  |
@@ -29,7 +29,7 @@ Any and all tables are examples, you can roll on them using d10s or simply picki
 | **7-8** | Night |  |
 | **9-10** | Special |  |
 
-## Encounters 5,5,5,5,5,5
+# Encounters 5,5,5,5,5,5
 
 First roll Density Check
 
@@ -69,7 +69,7 @@ This can be rolled as a single dice if there is a creature or group of creatures
 > This is the subject of the random encounter table
 > 
 
-| **d10** | Subject |
+| **d10** | **Subject** |
 | --- | --- |
 | **1-2** | Obstacle |
 | **3-4** | Beast |
@@ -79,7 +79,7 @@ This can be rolled as a single dice if there is a creature or group of creatures
 
 ### Subject Detail
 
-| **d10** | Obstacles | Beast | Haven |
+| **d10** | **Obstacles** | **Beast** | **Haven** |
 | --- | --- | --- | --- |
 | **1-2** | Sheer cliff | A famished cave bear |  |
 | **3-4** | Ravine | a fox looking for help |  |
@@ -99,7 +99,7 @@ This can be rolled as a single dice if there is a creature or group of creatures
 
 The people are hungry - its been a sennight since any animal have been seen in the hunting grounds, and the reserves are wearing thin - 
 
-| **d10** | **Event** | Quest |
+| **d10** | **Event** | **Quest** |
 | --- | --- | --- |
 | **1** | A birth is taking place under a full moon. | New Sacred Embers must be acquired from the Burning Wounds. |
 | **2** | A child is coming of age. | An Ancient must be guided to their final resting place |
@@ -114,7 +114,7 @@ The people are hungry - its been a sennight since any animal have been seen in t
 
 ## Adversity
 
-| **d10** | **Troubles** | Threats | **Calamities** |
+| **d10** | **Troubles** | **Threats** | **Calamities** |
 | --- | --- | --- | --- |
 | **1** | A Child has gone missing in the forest | People go missing, and none but the wardens remember them. | The world is being forgotten, anything or anyone that is forgotten vanishes. |
 | **2** | En Elder has become very sick | Several more have gone sick, but they live beyond the community. | A plague spreads across the land, killing all it touches. |
@@ -182,11 +182,11 @@ The people are hungry - its been a sennight since any animal have been seen in t
 | **9** | Kinship | No hideout, the valley and wilds are your playground. |
 | **10** | Status | In the Maw of an dead giant beast |
 
-# Character Tables
+# Characters
 
-### Names d100
+## Names d100
 
-| **d100** | Titles | Native Names |
+| **d100** | **Titles** | **Native Names** |
 | --- | --- | --- |
 | **1-5** | Moonsinger | Neima |
 | **6-10** | Boneweaver | Noba |
@@ -209,7 +209,7 @@ The people are hungry - its been a sennight since any animal have been seen in t
 | **91-95** | Gentle Flame | Geiwan |
 | **96-100** | Fluttering Sparrow | Rwnda |
 
-### Details d100
+## Details d100
 
 *Feel free to roll multiple features, desires and traits for a single character to add to their depth.*
 
@@ -301,7 +301,6 @@ A creature of Myth may have a certain behaviours. They may also follow laws they
 ## The Wise d10
 
 > These are the gods of the land, ancient spirits and other things whose lives stretch far beyond the ordinary.
-> 
 
 **Shape** is what they once were, or the shape they have taken
 
@@ -325,7 +324,6 @@ A creature of Myth may have a certain behaviours. They may also follow laws they
 ## The Unseen d10
 
 > These are unseen shadows, spirits and entities that stalk the lands
-> 
 
 **Presence** is how the Unseen make themselves known.
 
@@ -349,7 +347,6 @@ A creature of Myth may have a certain behaviours. They may also follow laws they
 ## The Accursed d10
 
 > These are accursed entities that have become of a singular though, embodying their obsession.
-> 
 
 **Obsession** is their singular focus and influences their every move
 
