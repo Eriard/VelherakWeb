@@ -7,23 +7,12 @@ nav_order: 3
 
 # Substance
 
-> The players partake in adding important and interesting elements to the community, making it essentially their own, and leaving their mark on the world, partaking in world building.
-
-> The main goal is to grant the Wardens ownership of the setting and the community which they seek to protect. Together with Omens and Attachments it should create a tapestry of interesting elements to play with.
-
-> *This step can be skipped if the players wish it.*
-
-A community is not just a collection of mud hits. but a wide stretched collection of smaller settlements, and places of import, usually with a central village as the focal point of the community.
-
-vs
-
 A community is not just a small settlement of huts, it is also the area beyond that the people traverse, where they have their secluded resting places, their hunting grounds, havens and sacred groves. Imagine that each community has a region beyond their immediate settlement that is part of who they are. It is also not uncommon for communities to be wide spread between several small settlements.
 
-Each element contains suggestions to their role and status, but it is up to the players to figure out who these characters are.
+The players partake in adding important and interesting elements to the community, making it essentially their own, and leaving their mark on the world, partaking in world building and granting them ownership of the setting and the community which they seek to protect. 
 
-- Players can get a chance to play these characters when the players meet them?
+Each player chooses one element of substance to forge and add to the community. Each element contains suggestions to their role and status, but it is up to the players to figure out who these characters are.
 
-Each player chooses one element of substance to forge and add to the community.
 
 ## People
 
@@ -194,33 +183,3 @@ Vast
 - Built by mortal men
 - Built by gods
 - Dug by beasts
-
-## Talismans
-
-> These are mystical objects used by some of the people to aid in specific ways.
-
-
-### Form
-
-Mask
-Trinket
-Amulet
-Brand
-
-### Function
-
-## Traditions
-
-> Rites that are important to the people, which they follow by the moons or seasons.
-
- **Time**
-
-- Each full moon
-
- **Action**
-
-- Everyone gathers for a meal
-
- **Purpose**
-
-- To stand equal

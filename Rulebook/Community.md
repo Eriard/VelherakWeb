@@ -66,7 +66,6 @@ The community is the home of the Wardens. It may not have been their birthplace 
 - Hermits <br>
 - Shrines <br>
 - Havens <br>
-- Traditions 
 
 <h3>5. Woe</h3>
 
