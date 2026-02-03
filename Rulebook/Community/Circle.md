@@ -25,13 +25,14 @@ nav_order: 0
   
 }
 </style> </head>
-<body>
+
 
 # Circle
 > This is how your group is known by the community
 
 The Circle is the group of Wardens banded together to protect the people from darkness and hardship. Choose a name that reflects the group, why do they bear this name?
 Was it thrust upon them, or did they choose this name?
+<body>
 <div class="flex-container">
   <div class="flex-item">
 

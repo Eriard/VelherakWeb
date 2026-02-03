@@ -105,17 +105,17 @@ Feel free to use the Character tables on page.XX to further flesh out these char
 
 <h4>Distance</h4>
 <hr class="solid">
-Nearby<br>
-Far Away<br>
+- Nearby<br>
+- Far Away<br>
 
 </div>
 	  <div class="flex-item">
 
 <h4>Scale</h4>
 <hr class="solid">
-Small<br>
-Large<br>
-Vast<br>
+- Small<br>
+- Large<br>
+- Vast<br>
 
 </div>
 </div>
