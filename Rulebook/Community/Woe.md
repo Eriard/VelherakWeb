@@ -29,13 +29,13 @@ nav_order: 4
 
 # Woe
 
-> There are dark clouds ahead on the horizon, omens speaking of change,  mysteries puzzling the people and hearsay spread by children and travellers alike
+There are dark clouds ahead on the horizon, omens speaking of change,  mysteries puzzling the people and hearsay spread by children and travellers alike
 
-Each player chooses to create either a Mystery, Omen or Hearsay
+> Each player chooses to create either a Mystery, Omen or Hearsay
 
 ## Mystery
 
-> Mysteries are intriguing parts of the community that the people themselves don’t necessarily understand, but may have started using or taking advantage of.
+Mysteries are intriguing parts of the community that the people themselves don’t necessarily understand, but may have started using or taking advantage of.
 
 
 
@@ -92,50 +92,52 @@ These are harbingers of doom or blessings upon the community. Each warden create
 	  
 <h4>What</h4>
 
-What did you See / Hear / Smell<br>
+<blockquote>What did you See / Hear / Smell</blockquote><br>
 
-1 - A Three Headed Crow <br>
-2 - Nothing, only Utter Silence <br>
-3 - Terrible and unnatural screaming <br>
-4 - A long dead loved one / Rival <br>
-5 - The Stench of death in water <br>
-6 - A Bleating Headless Fawn <br>
-7 - A man bathing in a river without a face <br>
-8 - Flames streaking across the heavens <br>
-9 - Strange Markings upon the skin <br>
-10 - Nine eyes gazing upon you
+A Three Headed Crow <br>
+Nothing, only Utter Silence <br>
+Terrible and unnatural screaming <br>
+A long dead loved one / Rival <br>
+The Stench of death in water <br>
+A Bleating Headless Fawn <br>
+A man bathing in a river without a face <br>
+Flames streaking across the heavens <br>
+Strange Markings upon the skin <br>
+Nine eyes gazing upon you
 	</div>
 	
 <div class="flex-item">
 <h4>Where d10</h4>
 
-'Where did you experience this Omen<br>
+<blockquote> Where did you experience this Omen</blockquote><br>
 
-1-2 - In a Dream <br>
-3-4 - In a Vision <br>
-5 - In the Mists <br>
-6 - In the Wilds <br>
-7 - Amongst the People <br>
-8 - On the Wind <br>
-9 - Within the Flames <br>
-10 - In the Shadows
+In a Dream <br>
+In a Vision <br>
+In the Mists <br>
+In the Wilds <br>
+In the Shadows <br>
+On the Wind <br>
+Within the Flames <br>
+Within the Water <br>
+Amongst the People <br>
+
 </div>
 
 <div class="flex-item">
 <h4>Why d10</h4>
 
-What do you think it means? <br>
+<blockquote> What do you think it means? </blockquote> <br>
 
-1 - It symbolises coming sickness <br>
-2 - It symbolises coming tragedy <br>
-3 - It symbolises coming death <br>
-4 - It symbolises coming change <br>
-5 - It symbolises coming truth <br>
-6 - It symbolises the presence of a spirit <br>
-7 - It symbolises coming calamity <br>
-8 - It symbolises coming abundance <br>
-9 - It symbolises the waking of a god <br>
-10 - It symbolises the coming of the end
+It symbolises coming sickness <br>
+It symbolises coming tragedy <br>
+It symbolises coming death <br>
+It symbolises coming change <br>
+It symbolises coming truth <br>
+It symbolises the presence of a spirit <br>
+It symbolises coming calamity <br>
+It symbolises coming abundance <br>
+It symbolises the waking of a god <br>
+It symbolises the coming of the end
 </div></div>
 </body>
 
