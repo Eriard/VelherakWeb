@@ -43,6 +43,7 @@ The Circle of Dreams <br>
 The Circle of Shadow 
 
 </div>
+
 <div class="flex-item">
 
 The Circle of Flame <br>
@@ -52,8 +53,7 @@ The Circle of Storms <br>
 The Circle of Iron
 
 </div>
-<div class="flex-container">
-  <div class="flex-item">
+<div class="flex-item">
 
 The Circle of Light <br>
 The Circle of Lies <br>
@@ -61,6 +61,6 @@ The Circle of Ruin <br>
 The Circle of Renewal <br>
 The Circle of Truth
 
-  </div>
+</div>
 </div>
 </body>
