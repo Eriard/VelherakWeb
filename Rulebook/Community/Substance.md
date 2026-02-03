@@ -40,25 +40,31 @@ Each player chooses one element of substance to forge and add to the community. 
 > Who are the important people of the community?
 
 *How would loosing one of these impact the players?*
+
 <body>
 	<div class="flex-container">
 	  <div class="flex-item">
 
 <b>Role</b>
 
-- Hunter
-- Healer
-- Crafter
-- Gatherer
-- Reaper
+<hr class="solid">
+
+- Hunter <br>
+- Healer <br>
+- Crafter <br>
+- Gatherer <br>
+- Reaper <br>
+
 </div>
+
 <div class=“flex-item”>
 <b>Status</b>
+<hr class="solid">
+- Admired <br>
+- Feared <br>
+- Shunned <br>
+- Venerated <br>
 
-- Admired
-- Feared
-- Shunned
-- Venerated
 </div>
 </div>
 </body>
@@ -91,10 +97,10 @@ Feel free to use the Character tables on page.XX to further flesh out these char
 
 <b>Purpose</b>
 
-- Food
-- Worship
-- Peace
-- Protection
+- Food <br>
+- Worship <br>
+- Peace <br>
+- Protection <br>
 </div>
 
 <div class=“flex-item”>
@@ -146,38 +152,43 @@ Vast
 
 <b>Who are they?</b>
 
-- A Healer
-- A Protector
-- A Warrior
-- A Seer
-- A Wise
-- A Harbinger
+<hr class="solid">
+
+- A Healer <br>
+- A Protector <br>
+- A Warrior <br>
+- A Seer <br>
+- A Wise <br>
+- A Harbinger <br>
 </div>
 
 <div class=“flex-item”>
 
 <b>Why did they leave?</b>
+<hr class="solid">
 
-- They Failed
-- They lost too much
-- They did something unforgivable
-- They entered a terrible pact
-- They were grievously scarred
-- They are hunted by a monster
+- They Failed <br>
+- They lost too much <br>
+- They did something unforgivable <br>
+- They entered a terrible pact <br>
+- They were grievously scarred <br>
+- They are hunted by a monster <br>
 </div>
 
 <div class=“flex-item”>
 
 <b>What do they desire</b>
 
-- Freedom
-- Safety
-- Grace
-- Vanity
-- Curiosity
-- Vision
-- Redemption
-- Peace
+<hr class="solid">
+
+- Freedom <br>
+- Safety <br>
+- Grace <br>
+- Vanity <br>
+- Curiosity <br>
+- Vision <br>
+- Redemption <br>
+- Peace <br>
 </div>
 </div>
 </body>
@@ -191,34 +202,35 @@ Vast
 	  <div class="flex-item">
 
 <b>What/Who are they dedicated to</b>
+<hr class="solid">
 
-- Animal
-- Ancestor
-- Beast
-- Hero
-- God
-- Spirit
+- Animal <br>
+- Ancestor <br>
+- Beast <br>
+- Hero <br>
+- God <br>
+- Spirit <br>
 
 </div>
 
 <div class=“flex-item”>
 
 <b>What do they offer in return of worship?</b>
-
-- Protection against Hunger
-- Protection against Cold
-- Protection against Evil
-- Protection against Shadows
+<hr class="solid">
+- Protection against Hunger <br>
+- Protection against Cold <br>
+- Protection against Evil <br>
+- Protection against Shadows <br>
 </div>
 
 <div class=“flex-item”>
 
 <b>What is its state</b>
-
-- Venerated
-- Preserved
-- Neglected
-- Forgotten
+<hr class="solid">
+- Venerated <br>
+- Preserved <br>
+- Neglected <br>
+- Forgotten <br>
 </div>
 </div>
 </body>
@@ -232,33 +244,33 @@ Vast
 	  <div class="flex-item">
 
 <b>Who tends to it?</b>
-
-- Travellers
-- Hunters
-- A Hermit
-- Unseen Forces
+<hr class="solid">
+- Travellers <br>
+- Hunters <br>
+- A Hermit <br>
+- Unseen Forces <br>
 </div>
 
 <div class="flex-item">
 
 <b>How is it hidden?</b>
-
-- Behind a Waterfall
-- Within a Thicket
-- Beneath the Ground
-- In maze of ravines
-- Behind a veil
+<hr class="solid">
+- Behind a Waterfall <br>
+- Within a Thicket <br>
+- Beneath the Ground <br>
+- In maze of ravines <br>
+- Behind a veil <br>
 
 </div>
 
 <div class="flex-item">
 
 <b>How was it made?</b>
-
-- Carved by water
-- Built by mortal men
-- Built by gods
-- Dug by beasts
+<hr class="solid">
+- Carved by water <br>
+- Built by mortal men <br>
+- Built by gods <br>
+- Dug by beasts <br>
 
 </div>
 </div>
