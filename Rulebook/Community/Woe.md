@@ -4,15 +4,6 @@ parent: Community
 layout: page
 nav_order: 4
 ---
-# Woe is me
-
-> There are dark clouds ahead on the horizon, omens speaking of change,  mysteries puzzling the people and hearsay spread by children and travellers alike
-
-Each player chooses to create either a Mystery, Omen or Hearsay
-
-## Mystery
-
-> Mysteries are intriguing parts of the community that the people themselves don’t necessarily understand, but may have started using or taking advantage of.
 
 <head>
 	<style>
@@ -35,6 +26,18 @@ Each player chooses to create either a Mystery, Omen or Hearsay
 }
 	</style> 
 </head>
+
+# Woe
+
+> There are dark clouds ahead on the horizon, omens speaking of change,  mysteries puzzling the people and hearsay spread by children and travellers alike
+
+Each player chooses to create either a Mystery, Omen or Hearsay
+
+## Mystery
+
+> Mysteries are intriguing parts of the community that the people themselves don’t necessarily understand, but may have started using or taking advantage of.
+
+
 
 <body>
 	<div class="flex-container">
@@ -59,21 +62,22 @@ It hums at night <br>
 It whispers in riddles <br>
 It offers a secret pact <br>
 It moves unseen
-
 </div>
 
+
 <div class="flex-item">
- <h4> How it affects us:<h4>
+ <h4> How it affects us:</h4>
 
 <hr class="solid">
 
 Protects the sleeping <br>
 Causes obsession <br>
 Voices whisper secrets <br>
-Guides travellers home
-			</div>
-		</div>
-	</div>
+Guides travellers home <br>
+
+</div>
+</div>
+</div>
 </body>
 	
 	
