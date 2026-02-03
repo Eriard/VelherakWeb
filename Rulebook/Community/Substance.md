@@ -69,7 +69,7 @@ Each player chooses one element of substance to forge and add to the community. 
 </body>
 
 ### Examples:
-
+<body><hr class="solid"></body>
 **The Sickness Mender** - heals the sick and treats wounds - knows the best spots to acquire healing ingredients.
 
 **The Dress Weaver** - mends and weaves clothes for the ceremonies, knows secrets behind treating hide and fiber to weave the finest of dress.
@@ -103,7 +103,7 @@ Feel free to use the Character tables on page.XX to further flesh out these char
 </div>
 	  <div class="flex-item">
 
-<h4>Distance Near/Far</h4>
+<h4>Distance</h4>
 <hr class="solid">
 Nearby<br>
 Far Away<br>
@@ -111,7 +111,7 @@ Far Away<br>
 </div>
 	  <div class="flex-item">
 
-<h4>Scale Small/Large</h4>
+<h4>Scale</h4>
 <hr class="solid">
 Small<br>
 Large<br>
@@ -122,7 +122,7 @@ Vast<br>
 </body>
 
 ### Examples:
-
+<body><hr class="solid"></body>
 **The Hunting Grounds** - Far away from the central village the hunting grounds lie, where one hunts animals.
 
 **The Healing Grove** - A secret grove where special plants grow with healing properties
@@ -196,7 +196,7 @@ Vast<br>
 	<div class="flex-container">
 	  <div class="flex-item">
 
-<h4>What/Who are they dedicated to</h4>
+<h4>What are they dedicated to</h4>
 <hr class="solid">
 
 - Animal <br>
@@ -218,7 +218,7 @@ Vast<br>
 </div>
 	  <div class="flex-item">
 
-<h4>What is its state</h4>
+<h4>What state is it currently in?</h4>
 <hr class="solid">
 - Venerated <br>
 - Preserved <br>
