@@ -77,74 +77,13 @@ Any and all tables are examples, you can roll on them using d10s or simply picki
 
 | **d10** | **Season of** |  |
 | --- | --- | --- |
-| **1-2** | Rain |  |
-| **3-4** | Light |  |
-| **5-6** | Storms |  |
-| **7-8** | Night |  |
-| **9-10** | Special |  |
+| **1-2** | Rain | Flood  |
+| **3-4** | Light | Drought |
+| **5-6** | Storms | Flame |
+| **7-8** | Night | Silence |
+| **9-10** | Special | Pestilence |
 
 # Encounters
-Roll four d10. The first is the distance to the encounter, the second if you have noticed it or it noticed you, the third is the subject and the fourth is subject detail
-
-### Density Check
-
-> This is a single d10 rolled to see wether a random encounter occurs. Depending on where the players are, they roll with a low, medium or high chance of having a random encounter.
-> 
-
-**3 out of 10** - low density, some chance for encounter
-
-**5 out of 10** - medium density, half chance for encounter
-
-**7 out of 10** - high density, high chance for encounter
-
-### Distance Check
-
-Is the subject close, near or far?
-
-Close : in your face
-
-Near: a fair distance away
-
-Far: far away
-
-### Notice Check
-
-This can be rolled as a single dice if there is a creature or group of creatures involved in the random encounter
-
-3 out of 10 - 30 % chance for players to notice, 70% chance for encounter to notice
-
-5 out of 10
-
-### Subject
-
-> This is the subject of the random encounter table
-> 
-
-| **d10** | **Subject** |
-| --- | --- |
-| **1-2** | Obstacle |
-| **3-4** | Beast |
-| **5-6** | Haven |
-| **7-8** | Traveller |
-| **9-10** | Settlement |
-
-### Subject Detail
-
-| **d10** | **Obstacles** | **Beast** | **Haven** |
-| --- | --- | --- | --- |
-| **1-2** | Sheer cliff | A famished cave bear |  |
-| **3-4** | Ravine | a fox looking for help |  |
-| **5-6** | Swamp |  |  |
-| **7-8** | Large river |  |  |
-| **9-10** |  |  |  |
-
-| **d10** | **Traveller** | **Settlement** |
-| --- | --- | --- |
-| **1-2** |  | Abandoned |
-| **3-4** |  | In the middle of a festival |
-| **5-6** |  | Under Attack |
-| **7-8** |  |  |
-| **9-10** |  |  |
 
 ## Scenarios
 
@@ -178,7 +117,7 @@ The people are hungry - its been a sennight since any animal have been seen in t
 | **9** | The Healer will not waken from their slumber | A similar dream is being dreamt by the people, and they are beginning to weaken and become dazed. | A Misty miasma of sleep falls over the region, all things have fallen asleep and will not awaken. |
 | **10** | People have become obsessed over the night sky and roam around restlessly until they can see the stars | Children speak of whispers in their ears at night, revealing dark secrets. | In the quiet sky the stars reign down upon the land |
 
-### Signs d10
+### Signs
 
 | **d10** | **Omens** | **Hearsay** | **Visions** |
 | --- | --- | --- | --- |
@@ -193,7 +132,7 @@ The people are hungry - its been a sennight since any animal have been seen in t
 | **9** | Animals have grown vicious and attack the people unprompted. | A giant black stone has appeared in the fields beyond the forest. | Animals screeching in pain from deep within the mountains. |
 | **10** | The sun becomes eclipsed by the moon during a communal rite. | There is a ancient rock where you can trade memories for gifts. | A loved one stands gazing at you with a gaping hole in their torso. |
 
-## Cult d10
+## Cult
 
 **Worship** is what entity or idea that the Cult has embraced
 
@@ -214,7 +153,7 @@ The people are hungry - its been a sennight since any animal have been seen in t
 | **9** | Unseen  | A Clearing in the dark forest | Rouse the Shadows |
 | **10** | That which came before | Carcass of a Dreaming God | Cause Death and Destruction |
 
-## Raiders d10
+## Raiders
 
 **Motivation** is what drives the raiders to continue their exile
 
@@ -239,7 +178,7 @@ The people are hungry - its been a sennight since any animal have been seen in t
 
 A creature of Myth may have a certain behaviours. They may also follow laws they must abide, and may be bound to shrines where they can be communed with.
 
-### Laws & Behaviour d10
+### Laws & Behaviour
 
 | **d10** | **Laws** | **Behaviour** | 
 | --- | --- | --- |
@@ -250,7 +189,7 @@ A creature of Myth may have a certain behaviours. They may also follow laws they
 | **9** |  Cannot cause Harm | Benevolent |
 | **10** |  Must Consume All Life | Malicious |
 
-### Shrines d10
+### Shrines
 
 | **d10** | **Location** | **Form** |
 | --- | --- | --- |
@@ -265,7 +204,7 @@ A creature of Myth may have a certain behaviours. They may also follow laws they
 | **9** | Under the Ancestral Tree | A mask symbolising the Velherak |
 | **10** | At the centre of a lake | A construction of bone and wood |
 
-## The Unbound d10
+## The Unbound
 
 **Manifestation** is what medium they reveal themselves through
 
@@ -286,7 +225,7 @@ A creature of Myth may have a certain behaviours. They may also follow laws they
 | **9** | Flesh | Ones Future | A crystal hanging from the neck of a young woman |
 | **10** | Sound | Death | An ancient stone weathered by wind and heat |
 
-## The Wise d10
+## The Wise
 
 > These are the gods of the land, ancient spirits and other things whose lives stretch far beyond the ordinary.
 
@@ -309,7 +248,7 @@ A creature of Myth may have a certain behaviours. They may also follow laws they
 | **9** | Of Thought | Destroy | A majestic glade of fruit filled trees |
 | **10** | Of Memory | Consume | The wellspring of the great rivers |
 
-## The Unseen d10
+## The Unseen
 
 > These are unseen shadows, spirits and entities that stalk the lands
 
@@ -332,7 +271,7 @@ A creature of Myth may have a certain behaviours. They may also follow laws they
 | **9** | Retching Stench | Through rage it made itself known  | Fear |
 | **10** | Visions of loved ones | It has been here since before the gods | Courage |
 
-## The Accursed d10
+## The Accursed
 
 > These are accursed entities that have become of a singular though, embodying their obsession.
 
