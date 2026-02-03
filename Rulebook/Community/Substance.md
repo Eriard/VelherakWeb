@@ -37,15 +37,13 @@ Each player chooses one element of substance to forge and add to the community. 
 
 ## People
 
-> Who are the important people of the community?
-
-*How would loosing one of these impact the players?*
+> Who are the important people of the community and How would loosing one of these impact the players?
 
 <body>
 	<div class="flex-container">
 	  <div class="flex-item">
 
-<b>Role</b>
+<h4>Role</h4>
 
 <hr class="solid">
 
@@ -58,7 +56,7 @@ Each player chooses one element of substance to forge and add to the community. 
 </div>
 	  <div class="flex-item">
 	  
-<b>Status</b>
+<h4>Status</h4>
 <hr class="solid">
 
 - Admired <br>
@@ -96,8 +94,8 @@ Feel free to use the Character tables on page.XX to further flesh out these char
 	<div class="flex-container">
 	  <div class="flex-item">
 
-<b>Purpose</b>
-
+<h4>Purpose</h4>
+<hr class="solid">
 - Food <br>
 - Worship <br>
 - Peace <br>
@@ -105,19 +103,19 @@ Feel free to use the Character tables on page.XX to further flesh out these char
 </div>
 	  <div class="flex-item">
 
-<b>Distance Near/Far</b>
+<h4>Distance Near/Far</h4>
+<hr class="solid">
+Nearby<br>
+Far Away<br>
 
-Nearby
-
-Far Away
 </div>
 	  <div class="flex-item">
 
-<b>Scale Small/Large</b>
-
-Small
-Large
-Vast
+<h4>Scale Small/Large</h4>
+<hr class="solid">
+Small<br>
+Large<br>
+Vast<br>
 
 </div>
 </div>
@@ -149,7 +147,7 @@ Vast
 	<div class="flex-container">
 	  <div class="flex-item">
 
-<b>Who are they?</b>
+<h4>Who are they?</h4>
 
 <hr class="solid">
 
@@ -162,7 +160,7 @@ Vast
 </div>
 	  <div class="flex-item">
 
-<b>Why did they leave?</b>
+<h4>Why did they leave?</h4>
 <hr class="solid">
 
 - They Failed <br>
@@ -174,7 +172,7 @@ Vast
 </div>
 	  <div class="flex-item">
 	  
-<b>What do they desire</b>
+<h4>What do they desire</h4>
 
 <hr class="solid">
 
@@ -198,7 +196,7 @@ Vast
 	<div class="flex-container">
 	  <div class="flex-item">
 
-<b>What/Who are they dedicated to</b>
+<h4>What/Who are they dedicated to</h4>
 <hr class="solid">
 
 - Animal <br>
@@ -211,7 +209,7 @@ Vast
 </div>
 	  <div class="flex-item">
 
-<b>What do they offer in return of worship?</b>
+<h4>What do they offer in return of worship?</h4>
 <hr class="solid">
 - Protection against Hunger <br>
 - Protection against Cold <br>
@@ -220,7 +218,7 @@ Vast
 </div>
 	  <div class="flex-item">
 
-<b>What is its state</b>
+<h4>What is its state</h4>
 <hr class="solid">
 - Venerated <br>
 - Preserved <br>
@@ -238,7 +236,7 @@ Vast
 	<div class="flex-container">
 	  <div class="flex-item">
 
-<b>Who tends to it?</b>
+<h4>Who tends to it?</h4>
 <hr class="solid">
 - Travellers <br>
 - Hunters <br>
@@ -247,7 +245,7 @@ Vast
 </div>
 	  <div class="flex-item">
 
-<b>How is it hidden?</b>
+<h4>How is it hidden?</h4>
 <hr class="solid">
 - Behind a Waterfall <br>
 - Within a Thicket <br>
@@ -259,7 +257,7 @@ Vast
 
 <div class="flex-item">
 
-<b>How was it made?</b>
+<h4>How was it made?</h4>
 <hr class="solid">
 - Carved by water <br>
 - Built by mortal men <br>
