@@ -11,7 +11,7 @@ nav_order: 3
 
 > The main goal is to grant the Wardens ownership of the setting and the community which they seek to protect. Together with Omens and Attachments it should create a tapestry of interesting elements to play with.
 
-> *This step can be skipped if the players wish it, or if some players do not wish to join in thats ok as well.*
+> *This step can be skipped if the players wish it.*
 
 A community is not just a collection of mud hits. but a wide stretched collection of smaller settlements, and places of import, usually with a central village as the focal point of the community.
 
@@ -25,10 +25,9 @@ Each element contains suggestions to their role and status, but it is up to the 
 
 Each player chooses one element of substance to forge and add to the community.
 
-### People
+## People
 
 > Who are the important people of the community?
-> 
 
 *How would loosing one of these impact the players?*
 
@@ -47,31 +46,28 @@ Each player chooses one element of substance to forge and add to the community.
 - Shunned
 - Venerated
 
-Examples:
+### Examples:
 
-The Sickness Mender - heals the sick and treats wounds - knows the best spots to acquire healing ingredients.
+**The Sickness Mender** - heals the sick and treats wounds - knows the best spots to acquire healing ingredients.
 
-The Dress Weaver - mends and weaves clothes for the ceremonies, knows secrets behind treating hide and fiber to weave the finest of dress.
+**The Dress Weaver** - mends and weaves clothes for the ceremonies, knows secrets behind treating hide and fiber to weave the finest of dress.
 
-The Hunt Master - tracks down beasts and sets up traps, knows the beasts and their ways better than anyone.
+**The Hunt Master** - tracks down beasts and sets up traps, knows the beasts and their ways better than anyone.
 
-The Craft Smith - crafts and mends the tools of the people, knows there to find the best wood and stone.
+**The Craft Smith** - crafts and mends the tools of the people, knows there to find the best wood and stone.
 
-The Earth Tender - tends to plants and encourages them to share their flesh with the gatherers, knows how to call forth fruits from simple earth.
+**The Earth Tender** - tends to plants and encourages them to share their flesh with the gatherers, knows how to call forth fruits from simple earth.
 
-The Kin Strider - the fastest of the people, carries messages between settlements and areas, knows the hidden shortcuts.
+**The Kin Strider** - the fastest of the people, carries messages between settlements and areas, knows the hidden shortcuts.
 
 <aside>
-<img src="/icons/exclamation-mark-double_blue.svg" alt="/icons/exclamation-mark-double_blue.svg" width="40px" />
-
 Feel free to use the Character tables on page.XX to further flesh out these characters.
-
 </aside>
 
-### Areas
+## Areas
 
 > These are part of the greater community, areas the people travel through from settlement to settlement, or that the people travel to for specific reasons.
-> 
+
 
 **Purpose**
 
@@ -89,33 +85,31 @@ Far Away
 **Scale Small/Large**
 
 Small
-
 Large
-
 Vast
 
-Examples:
+### Examples:
 
-The Hunting Grounds - Far away from the central village the hunting grounds lie, where one hunts animals.
+**The Hunting Grounds** - Far away from the central village the hunting grounds lie, where one hunts animals.
 
-The Healing Grove - A secret grove where special plants grow with healing properties
+**The Healing Grove** - A secret grove where special plants grow with healing properties
 
-The Silkwoods - a part of the greater forest where rare spiders spin vast constructs of silknet, which is gathered for ceremonial garbs.
+**The Silkwoods** - a part of the greater forest where rare spiders spin vast constructs of silknet, which is gathered for ceremonial garbs.
 
-The Elder Woods - a dark part of the forest with long stretched shadows, many shrines are spread about
+**The Elder Woods** - a dark part of the forest with long stretched shadows, many shrines are spread about
 
-The Forest of Dolls - A forest populated by wooden dolls of varying sizes, strange whispers said to come from these dolls.
+**The Forest of Dolls** - A forest populated by wooden dolls of varying sizes, strange whispers said to come from these dolls.
 
-The Growing Fields - small fields where edible plants and fruits are grown, 
+**The Growing Fields** - small fields where edible plants and fruits are grown, 
 
-The Lookout Peak - away and up from the central village, atop a mountain or mound stand a constructed tower which grants an eagle view of the region.
+**The Lookout Peak** - away and up from the central village, atop a mountain or mound stand a constructed tower which grants an eagle view of the region.
 
-The Putrid Bogs - near the hunting grounds lie dangerous bogs that have claimed many lives over the ages, move through with caution, and avoid if possible
+**The Putrid Bogs** - near the hunting grounds lie dangerous bogs that have claimed many lives over the ages, move through with caution, and avoid if possible
 
-### Hermits
+## Hermits
 
 > These are people of near mythical status amongst the people, fallen heroes who now live removed from the people, if they are still even alive.
-> 
+
 
 **Who are they?**
 
@@ -146,10 +140,10 @@ The Putrid Bogs - near the hunting grounds lie dangerous bogs that have claimed 
 - Redemption
 - Peace
 
-### Shrines
+## Shrines
 
 > Shrines are places or worship; gratitude, praise and appeasement. Shrines must be maintained to keep a bond strong
-> 
+
 
 **What/Who are they dedicated to**
 
@@ -174,19 +168,19 @@ The Putrid Bogs - near the hunting grounds lie dangerous bogs that have claimed 
 - Neglected
 - Forgotten
 
-### Havens
+## Havens
 
 > These are hiding places in the wilds that offer refuge to hunters and travellers caught by darkness or inclement weather.
-> 
 
-### **Who tends to it?**
+
+**Who tends to it?**
 
 - Travellers
 - Hunters
 - A Hermit
 - Unseen Forces
 
-### **How is it hidden?**
+**How is it hidden?**
 
 - Behind a Waterfall
 - Within a Thicket
@@ -194,7 +188,7 @@ The Putrid Bogs - near the hunting grounds lie dangerous bogs that have claimed 
 - In maze of ravines
 - Behind a veil
 
-### **How was it made?**
+**How was it made?**
 
 - Carved by water
 - Built by mortal men
@@ -204,33 +198,29 @@ The Putrid Bogs - near the hunting grounds lie dangerous bogs that have claimed 
 ## Talismans
 
 > These are mystical objects used by some of the people to aid in specific ways.
-> 
+
 
 ### Form
 
 Mask
-
 Trinket
-
 Amulet
-
 Brand
 
 ### Function
 
-### Traditions
+## Traditions
 
-> Rites and Rituals that are important to the people, which they follow by the moons or seasons.
-> 
+> Rites that are important to the people, which they follow by the moons or seasons.
 
-### **Time**
+ **Time**
 
 - Each full moon
 
-### **Action**
+ **Action**
 
 - Everyone gathers for a meal
 
-### **Purpose**
+ **Purpose**
 
 - To stand equal

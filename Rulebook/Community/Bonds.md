@@ -6,7 +6,7 @@ nav_order: 1
 ---
 
 # Bonds
-Bonds are what bind you to others, and are of great personal importance to your character. They can take many forms, but commonly are by Duty, Blood, Circumstance or Love
+Bonds are what bind you to others, and are of great personal importance to your character. They can take many forms, but commonly are by **Duty**, **Blood**, **Fate** or **Love**
 
 First create a Bond to an Non Player Character that is part of the community-
 
@@ -22,7 +22,7 @@ I have been charged to protect \
 I swore my allegiance \
 I was inducted 
 
-### Fate / Circumstance
+### Fate
 
 I owe them my life\
 We were lost together

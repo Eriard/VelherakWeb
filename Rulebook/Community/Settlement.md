@@ -7,10 +7,9 @@ nav_order: 2
 
 # Settlement
 
-### Scale
+## Scale
 
 > How large is the community?
-> 
 
 We recommend smaller types of settlements for most adventures, but feel free to experiment.
 
@@ -20,60 +19,29 @@ We recommend smaller types of settlements for most adventures, but feel free to 
 
 **Bastion** - A vast Community containing thousands of people protected by many fortifications and guards.
 
-### Landscape
+## Landscape
 
 > Where is the community seated?
-> 
 
 *The group can also decide if the Community is Static or Semi-Nomadic; This means that during some seasons all or some of the community venture out into the wilds and return seasons later.*
 
-**Example landscapes**
-
-In a Field
-
-In a Forest
-
-In a Valley
-
-By a River
-
-By a Lake
-
-By the Swamp
-
-On a Hill
-
-On the Mountain
-
-On a Cliff
-
-On a Ridge
-
-### Name
+## Name
 
 > What is the Community Called?
-> 
 
 Each community will have a name for the settlement, and they may also call themselves by the type of location they hail from. For example they may say that they are of the **Field Folk** and their community is the **Widehearth**.
 
-Examples
+## Example Settlements
 
-Widehearth
-
-Tangledeep
-
-Heartwall
-
-Forked-Stream
-
-Moonlake
-
-Bogmist
-
-Hillwall
-
-Wailing-Split
-
-Far-fall
-
-Stormridge
+| **d10** | Names |
+| --- | --- |
+| **1** | In a Field | Widehearth |
+| **2** | In a Forest | Tangledeep |
+| **3** | In a Valley  | Heartwall |
+| **4** | By a River | Fork Stream |
+| **5** | By a Lake | Moonlake |
+| **6** | By the Swamp | Bogmist |
+| **7** | On a Hill | Hillwall |
+| **8** | On the Mountain | Wailing-Split |
+| **9** | On a Cliff | Far-fall |
+| **10** | On a Ridge | Stormridge |

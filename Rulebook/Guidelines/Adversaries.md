@@ -17,9 +17,9 @@ Adversaries are any entity that stands to hinder you from achieving your goal, i
 
 **Protection** - The amount of Harm the adversary can soak before it affects their Stress. 
 
-Armour - The amount of Physical Harm the adversary can soak before it affects their Stress. 
+**Armour** - The amount of Physical Harm the adversary can soak before it affects their Stress. 
 
-Charm - The amount of Mental the adversary can soak before it affects their Stress. 
+**Charm** - The amount of Mental the adversary can soak before it affects their Stress. 
 
 **Initiative** - The Adversaries set Initiative Value in.
 
@@ -53,7 +53,7 @@ Death does not come by accident. An adversary cannot be killed by reaching max s
 
 Each Adversary has an underlying nature that affects who they are and how they respond to actions against them. Below is a table of Nature examples and their most likely Defeat Response
 
-| Nature | Personality | Defeat |
+| **Nature** | **Personality** | **Defeat** |
 | --- | --- | --- |
 | Aggressive | Will not respond well to being talked down to or attempts to subdue.  | Fight |
 | Stubborn | Will not yield or give up. May double down if aggressively confronted. | Fight |

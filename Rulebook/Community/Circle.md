@@ -35,40 +35,31 @@ Was it thrust upon them, or did they choose this name?
 <div class="flex-container">
   <div class="flex-item">
 
-The Circle of Thorns
+The Circle of Thorns <br>
+The Circle of Stars  <br>
+The Circle of War <br>
+The Circle of Dreams <br>
+The Circle of Shadow 
 
-The Circle of Stars 
-
-The Circle of War
-
-The Circle of Dreams
-
-The Circle of Shadow
 </div>
 <div class="flex-item">
 
-The Circle of Flame
-
-The Circle of Water
-
-The Circle of Earth
-
-The Circle of Storms
-
+The Circle of Flame <br>
+The Circle of Water <br>
+The Circle of Earth <br>
+The Circle of Storms <br>
 The Circle of Iron
+
 </div>
 <div class="flex-container">
   <div class="flex-item">
 
-The Circle of Light
-
-The Circle of Lies
-
-The Circle of Ruin
-
-The Circle of Renewal
-
+The Circle of Light <br>
+The Circle of Lies <br>
+The Circle of Ruin <br>
+The Circle of Renewal <br>
 The Circle of Truth
+
   </div>
 </div>
 </body>

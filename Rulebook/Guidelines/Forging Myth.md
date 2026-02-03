@@ -7,7 +7,7 @@ nav_order: 3
 
 # Forging Myths
 
-> *Gods, Spirits, Accursed and Shadows are all living myths, the folklore creatures of this world, known collectively as The Velherak.
+> *Gods, Spirits, Accursed and Shadows are all living myths, the folklore creatures of this world, known collectively as The Velherak.*
 
 No two myths are truly the same, although similarity may be found, and they may wander to new lands, following their people of pray.*
 
@@ -28,7 +28,7 @@ When creating Creatures of Myth for the adventure consider their role, as they s
 
 *In the tables section you can find information on how to quickly generate a concept for your Creature of Myth.*
 
-***Not all Creatures of Myth you create need to fit into any of the categories below, These are guides to help you, not stifle you. A Creature of Myth can be any mythical entity or thing.***
+*Not all Creatures of Myth you create need to fit into any of the categories below, These are guides to help you, not stifle you. A Creature of Myth can be any mythical entity or thing.*
 
 ### Mythical Entities and Forces
 
@@ -56,7 +56,7 @@ Many cursed creatures have a Lair where they rest, consume prey or hide away fro
 
 Thrones are natural wellsprings of power. One may find them abandoned in the wilds, and as the ages pass they ebb and flow, some disappear, and are born anew elsewhere. These places thrum with power, attracting all sorts of creatures to them, both ordinary and mythical. Some say that Thrones are where Velherak sit and that is why they hold power, others say they are as springs. Thrones may also be more than an area, it can be an imagined place within a thought, object or even another entity.
 
-***Below we include some categories for the storyteller in how one might divide the Velherak. In the world there is no true category for Velherak and a create may fit in several or none of the categories detailed below. In the world, any Velherak should simply be considered as a standalone myth with its own rules and definitions.***
+*Below we include some categories for the storyteller in how one might divide the Velherak. In the world there is no true category for Velherak and a create may fit in several or none of the categories detailed below. In the world, any Velherak should simply be considered as a standalone myth with its own rules and definitions.*
 
 ### **The Unbound**
 
