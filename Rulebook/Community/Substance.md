@@ -4,6 +4,27 @@ parent: Community
 layout: page
 nav_order: 3
 ---
+<head>
+	<style>
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-item {
+  background-color: #301E1E;
+  padding: 10px;
+  text-align: left;
+  width: 100%;
+}
+@media (max-width: 600px) {
+  .flex-container {
+    flex-direction: column;
+  }
+  
+}
+	</style> 
+</head>
 
 # Substance
 
@@ -19,21 +40,28 @@ Each player chooses one element of substance to forge and add to the community. 
 > Who are the important people of the community?
 
 *How would loosing one of these impact the players?*
+<body>
+	<div class="flex-container">
+	  <div class="flex-item">
 
-**Role**
+<b>Role</b>
 
 - Hunter
 - Healer
 - Crafter
 - Gatherer
 - Reaper
-
-**Status**
+</div>
+<div class=“flex-item”>
+<b>Status</b>
 
 - Admired
 - Feared
 - Shunned
 - Venerated
+</div>
+</div>
+</body>
 
 ### Examples:
 
@@ -57,25 +85,38 @@ Feel free to use the Character tables on page.XX to further flesh out these char
 
 > These are part of the greater community, areas the people travel through from settlement to settlement, or that the people travel to for specific reasons.
 
+<body>
+	<div class="flex-container">
+	  <div class="flex-item">
 
-**Purpose**
+<b>Purpose</b>
 
 - Food
 - Worship
 - Peace
 - Protection
+</div>
 
-**Distance Near/Far**
+<div class=“flex-item”>
+
+<b>Distance Near/Far</b>
 
 Nearby
 
 Far Away
+</div>
 
-**Scale Small/Large**
+<div class=“flex-item”>
+
+<b>Scale Small/Large</b>
 
 Small
 Large
 Vast
+
+</div>
+</div>
+</body>
 
 ### Examples:
 
@@ -99,8 +140,11 @@ Vast
 
 > These are people of near mythical status amongst the people, fallen heroes who now live removed from the people, if they are still even alive.
 
+<body>
+	<div class="flex-container">
+	  <div class="flex-item">
 
-**Who are they?**
+<b>Who are they?</b>
 
 - A Healer
 - A Protector
@@ -108,8 +152,11 @@ Vast
 - A Seer
 - A Wise
 - A Harbinger
+</div>
 
-**Why did they leave?** 
+<div class=“flex-item”>
+
+<b>Why did they leave?</b>
 
 - They Failed
 - They lost too much
@@ -117,8 +164,11 @@ Vast
 - They entered a terrible pact
 - They were grievously scarred
 - They are hunted by a monster
+</div>
 
-**What do they desire**
+<div class=“flex-item”>
+
+<b>What do they desire</b>
 
 - Freedom
 - Safety
@@ -128,13 +178,19 @@ Vast
 - Vision
 - Redemption
 - Peace
+</div>
+</div>
+</body>
 
 ## Shrines
 
 > Shrines are places or worship; gratitude, praise and appeasement. Shrines must be maintained to keep a bond strong
 
+<body>
+	<div class="flex-container">
+	  <div class="flex-item">
 
-**What/Who are they dedicated to**
+<b>What/Who are they dedicated to</b>
 
 - Animal
 - Ancestor
@@ -143,33 +199,49 @@ Vast
 - God
 - Spirit
 
-**What do they offer in return of worship?**
+</div>
+
+<div class=“flex-item”>
+
+<b>What do they offer in return of worship?</b>
 
 - Protection against Hunger
 - Protection against Cold
 - Protection against Evil
 - Protection against Shadows
+</div>
 
-**What is its state**
+<div class=“flex-item”>
+
+<b>What is its state</b>
 
 - Venerated
 - Preserved
 - Neglected
 - Forgotten
+</div>
+</div>
+</body>
 
 ## Havens
 
 > These are hiding places in the wilds that offer refuge to hunters and travellers caught by darkness or inclement weather.
 
+<body>
+	<div class="flex-container">
+	  <div class="flex-item">
 
-**Who tends to it?**
+<b>Who tends to it?</b>
 
 - Travellers
 - Hunters
 - A Hermit
 - Unseen Forces
+</div>
 
-**How is it hidden?**
+<div class="flex-item">
+
+<b>How is it hidden?</b>
 
 - Behind a Waterfall
 - Within a Thicket
@@ -177,9 +249,17 @@ Vast
 - In maze of ravines
 - Behind a veil
 
-**How was it made?**
+</div>
+
+<div class="flex-item">
+
+<b>How was it made?</b>
 
 - Carved by water
 - Built by mortal men
 - Built by gods
 - Dug by beasts
+
+</div>
+</div>
+</body>
