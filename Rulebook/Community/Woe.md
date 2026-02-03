@@ -77,7 +77,6 @@ Guides travellers home <br>
 
 </div>
 </div>
-</div>
 </body>
 	
 	
@@ -93,7 +92,7 @@ These are harbingers of doom or blessings upon the community. Each warden create
 	  
 <h4>What</h4>
 
-<q>What did you See / Hear / Smell</q>
+What did you See / Hear / Smell<br>
 
 1 - A Three Headed Crow <br>
 2 - Nothing, only Utter Silence <br>
@@ -110,7 +109,7 @@ These are harbingers of doom or blessings upon the community. Each warden create
 <div class="flex-item">
 <h4>Where d10</h4>
 
-<q>Where did you experience this Omen</q>
+'Where did you experience this Omen<br>
 
 1-2 - In a Dream <br>
 3-4 - In a Vision <br>
@@ -125,7 +124,7 @@ These are harbingers of doom or blessings upon the community. Each warden create
 <div class="flex-item">
 <h4>Why d10</h4>
 
-<q>What do you think it means?</q>
+What do you think it means? <br>
 
 1 - It symbolises coming sickness <br>
 2 - It symbolises coming tragedy <br>
@@ -137,7 +136,7 @@ These are harbingers of doom or blessings upon the community. Each warden create
 8 - It symbolises coming abundance <br>
 9 - It symbolises the waking of a god <br>
 10 - It symbolises the coming of the end
-</div></div></div>
+</div></div>
 </body>
 
 ## Hearsay
