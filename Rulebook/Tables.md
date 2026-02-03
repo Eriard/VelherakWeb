@@ -27,7 +27,7 @@ Any and all tables are examples, you can roll on them using d10s or simply picki
 | **3-4** | Light |  |
 | **5-6** | Storms |  |
 | **7-8** | Night |  |
-| 9-10 | Special |  |
+| **9-10** | Special |  |
 
 ## Encounters 5,5,5,5,5,5
 
@@ -40,11 +40,11 @@ If you gain an encounter, then roll four d10. The first is the distance to the e
 > This is a single d10 rolled to see wether a random encounter occurs. Depending on where the players are, they roll with a low, medium or high chance of having a random encounter.
 > 
 
-3 out of 10 - low density, some chance for encounter
+**3 out of 10** - low density, some chance for encounter
 
-5 out of 10 - medium density, half chance for encounter
+**5 out of 10** - medium density, half chance for encounter
 
-7 out of 10 - high density, high chance for encounter
+**7 out of 10** - high density, high chance for encounter
 
 ### Distance Check
 
@@ -75,7 +75,7 @@ This can be rolled as a single dice if there is a creature or group of creatures
 | **3-4** | Beast |
 | **5-6** | Haven |
 | **7-8** | Traveller |
-| 9-10 | Settlement |
+| **9-10** | Settlement |
 
 ### Subject Detail
 
@@ -83,17 +83,17 @@ This can be rolled as a single dice if there is a creature or group of creatures
 | --- | --- | --- | --- |
 | **1-2** | Sheer cliff | A famished cave bear |  |
 | **3-4** | Ravine | a fox looking for help |  |
-| 5-6 | Swamp |  |  |
-| 7-8 | Large river |  |  |
-| 9-10 |  |  |  |
+| **5-6** | Swamp |  |  |
+| **7-8** | Large river |  |  |
+| **9-10** |  |  |  |
 
 | **d10** | Traveller | Settlement |
 | --- | --- | --- |
 | **1-2** |  | Abandoned |
-| 3-4 |  | In the middle of a festival |
-| 5-6 |  | Under Attack |
-| 7-8 |  |  |
-| 9-10 |  |  |
+| **3-4** |  | In the middle of a festival |
+| **5-6** |  | Under Attack |
+| **7-8** |  |  |
+| **9-10** |  |  |
 
 ## Scenarios
 
@@ -375,16 +375,16 @@ A creature of Myth may have a certain behaviours. They may also follow laws they
 
 | **d10** | **Deviation** | **Lair** |
 | --- | --- | --- |
-| 1 | Teeth growing where they should not | A deep cave covered in teeth |
-| 2 | Clinging to life with flesh falling apart | An impossibly tall peak |
-| 3 | Growing features alien to its kin | Deep within a retching boiling lake |
-| 4 | Multitudes of eyes | A forest with bleeding trees |
-| 5 | Ruptures of skin and pus | Beneath the very earth |
-| 6 | Complete loss of hair, teeth and nails | Within the nightmares of a child |
-| 7 | Glowing in the dark | A glade captured in eternal night |
-| 8 | Walks with a body missing all its bones | A vast cave hidden within a rotting boar |
-| 9 | Takes on the likeness of those it encounters | A hut in the community |
-| 10 | Grows to enormous size | A hidden place that captures any pray that fall into |
+| **1** | Teeth growing where they should not | A deep cave covered in teeth |
+| **2** | Clinging to life with flesh falling apart | An impossibly tall peak |
+| **3** | Growing features alien to its kin | Deep within a retching boiling lake |
+| **4** | Multitudes of eyes | A forest with bleeding trees |
+| **5** | Ruptures of skin and pus | Beneath the very earth |
+| **6** | Complete loss of hair, teeth and nails | Within the nightmares of a child |
+| **7** | Glowing in the dark | A glade captured in eternal night |
+| **8** | Walks with a body missing all its bones | A vast cave hidden within a rotting boar |
+| **9** | Takes on the likeness of those it encounters | A hut in the community |
+| **10** | Grows to enormous size | A hidden place that captures any pray that fall into |
 
 | **d10** | Severity |
 | --- | --- |
