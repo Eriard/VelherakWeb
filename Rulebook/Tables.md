@@ -83,11 +83,8 @@ Any and all tables are examples, you can roll on them using d10s or simply picki
 | **7-8** | Night |  |
 | **9-10** | Special |  |
 
-# Encounters 5,5,5,5,5,5
-
-First roll Density Check
-
-If you gain an encounter, then roll four d10. The first is the distance to the encounter, the second if you have noticed it or it noticed you, the third is the subject and the fourth is subject detail
+# Encounters
+Roll four d10. The first is the distance to the encounter, the second if you have noticed it or it noticed you, the third is the subject and the fourth is subject detail
 
 ### Density Check
 
@@ -141,7 +138,7 @@ This can be rolled as a single dice if there is a creature or group of creatures
 | **7-8** | Large river |  |  |
 | **9-10** |  |  |  |
 
-| **d10** | Traveller | Settlement |
+| **d10** | **Traveller** | **Settlement** |
 | --- | --- | --- |
 | **1-2** |  | Abandoned |
 | **3-4** |  | In the middle of a festival |
@@ -238,7 +235,7 @@ The people are hungry - its been a sennight since any animal have been seen in t
 
 
 
-# Myth Tables
+# Myths
 
 A creature of Myth may have a certain behaviours. They may also follow laws they must abide, and may be bound to shrines where they can be communed with.
 
@@ -393,4 +390,4 @@ A creature of Myth may have a certain behaviours. They may also follow laws they
 | **7-8** | Clear |
 | **9-10** | Extreme |
 
-## Location d10
+# Locations
