@@ -93,7 +93,7 @@ These are harbingers of doom or blessings upon the community. Each warden create
 	  
 <h4>What</h4>
 
-What did you See / Hear / Smell
+<q>What did you See / Hear / Smell</q>
 
 1 - A Three Headed Crow <br>
 2 - Nothing, only Utter Silence <br>
@@ -110,7 +110,7 @@ What did you See / Hear / Smell
 <div class="flex-item">
 <h4>Where d10</h4>
 
-Where did you experience this Omen
+<q>Where did you experience this Omen</q>
 
 1-2 - In a Dream <br>
 3-4 - In a Vision <br>
@@ -125,7 +125,7 @@ Where did you experience this Omen
 <div class="flex-item">
 <h4>Why d10</h4>
 
-What do you think it means?
+<q>What do you think it means?</q>
 
 1 - It symbolises coming sickness <br>
 2 - It symbolises coming tragedy <br>
