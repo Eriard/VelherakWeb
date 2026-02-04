@@ -28,7 +28,7 @@ nav\_order: 0
 </style>
  </head>
 <script>
-        document.querySelectorAll("#site-nav > ul")[0].insertAdjacentHTML("<h2>Test</h2>");
+        document.querySelectorAll("#site-nav> ul")[0].insertAdjacentHTML("<h2>Test</h2>");
     </script>
 
 # Wardens
@@ -98,7 +98,6 @@ Multiple people can choose the same Warden, but we recommend to not exceed two w
 
 > *This Spear has been passed down for generations, none knows whence it came from.*
 
-
 A mystical long spear which is said to guide its bearer to protect their people, to stop the spread of Rot and rebuke the monsters of the night. Rot impaled by the Spear is stopped in its tracks, and by the will of the Sage the rot itself is cleansed.
 
 **Boon**: 1 Bonus dice on reactions that protect.
@@ -107,18 +106,15 @@ A mystical long spear which is said to guide its bearer to protect their people,
 
 > *Howling Moon thrust the Hallowed Spear into the abdomen of the rotting god and gave of herself to awaken its fury and cleanse the god of its affliction.*
 
-
 ## Spear Rites
 
 > These Rites are your shield against the accursed and rotten beasts
-
 
 **Rite of Courage**
 
 Perform a rite where you encase your heart with courage so that the hollow beasts do not strike fear into you.
 
 > *Howling Moon meditated on what awaited her, injury, suffering, death, and she looked upon the faces of her people and knew her actions would save them. She was prepared to face death and remain steadfast with her spear in hand.*
-
 
 **Rite of Restraint**
 
@@ -151,6 +147,7 @@ Any creature taken by the rot slowly wastes away, and in time will become a nest
 
 Your kin found the right ingredients to brew remedies to stand against this rot, and the rites that rattle the rotted, you have inherited this knowledge and must protect your people if the Rot ever arises again.\\
 
+---
 
 # Wild Walker  {#WildWalker}
 
@@ -217,6 +214,7 @@ A Threshold appears most often between perfectly entangled or aligned things. Th
 
 The best way to avoid the Wandering Wilds and the Shifting is to keep paths well trod and marked, and to never stray too far from the path.
 
+---
 
 # Dream Watcher {#DreamWatcher}
 
@@ -228,11 +226,10 @@ The best way to avoid the Wandering Wilds and the Shifting is to keep paths well
 
 An Anchor that grounds its wearer in the dreaming wilds, allowing them to shape dreams and traverse as they wish through the dreaming wilds. The anchor also leads them home, no matter how deep they dream. By offering their memories, the Watchers can bring back the lost or solidify places in the dreaming wilds, making them fixtures of the dream.
 
-<font color="#FF9E02"> <b> **Boon:** </b> </font> Bonus Dice on Traversal Rolls in the Dreaming Wild - no cost
+**Boon:** Bonus Dice on Traversal Rolls in the Dreaming Wild - no cost.
 
-<font color="#FF9E02"> <b> **Mystic Boon:**</b></font> *Halt Dream*, Set your Anchor up in the sky and it will hover and make it so that nothing may change.
-
-> *Moonsinger as*
+ **Mystic Boon:** 
+*Halt Dream*, Set your Anchor up in the sky and it will hover and make it so that nothing may change.
 
 ## Rites of Dreams
 
