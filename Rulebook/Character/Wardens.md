@@ -5,8 +5,8 @@ has_children: true
 layout: page
 nav_order: 0
 ---
-<head>
-<style>
+\<head\>
+\<style\>
 .flex-container {
   display: flex;
   flex-direction: row;
@@ -21,12 +21,12 @@ nav_order: 0
 
 @media (max-width: 600px) {
   .flex-container {
-    flex-direction: column;
+flex-direction: column;
   }
   
 }
-</style>
- </head>
+\</style\>
+ \</head\>
  
 # Wardens
 Wardens are the sacred guardians of the people, each archetype holds an important role in their society. A Warden carries many tools, which they use sparingly and only against specific threats.

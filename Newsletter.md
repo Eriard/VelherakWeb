@@ -1,4 +1,4 @@
 ---
-nav\_order: 2
-redirect\_to: https://eriard.github.io/VelherakWeb/
+nav_order: 2
+redirect_to: https://eriard.github.io/VelherakWeb/
 ---

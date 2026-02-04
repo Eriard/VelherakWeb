@@ -2,7 +2,7 @@
 title: Bonds
 parent: Community
 layout: page
-nav_order: 1
+nav _order: 1
 ---
 
 # Bonds
@@ -35,36 +35,35 @@ flex-direction: column;
   
 }
 \</style\> 
-\</head\>
+\</head \>
 
-\<body\>
-\<div class="flex-container"\>
-\<div class="flex-item"\>
+ \<body \>
+ \<div class="flex-container" \>
+ \<div class="flex-item" \>
 
 ### Duty
-
-I have been charged to protect \\
-I swore my allegiance \\
+I have been charged to protect  
+I swore my allegiance  
 I was inducted 
 
 ### Fate
-
-I owe them my life\\
+I owe them my life 
 We were lost together
-\</div\>
 
-\<body\>
-\<div class="flex-container"\>
-\<div class="flex-item"\>
+ \</div \>
+
+ \<body \>
+ \<div class="flex-container" \>
+ \<div class="flex-item" \>
 
 ### Blood
-
-As a Parent\\
-As a Sibling\\
+As a Parent 
+As a Sibling 
 As a Child
 
 ### Love
-Through Friendship \\
-Through Passion \\
+Through Friendship
+Through Passion
 Through Respect
-\</div\> \</div\> \</body\>
+
+ \</div \>  \</div \>  \</body \>

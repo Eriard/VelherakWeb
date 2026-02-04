@@ -2,7 +2,7 @@
 title: Conflict
 parent: Guidelines
 layout: page
-nav\_order: 4
+nav_order: 4
 ---
 # Belongings
 

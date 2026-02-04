@@ -4,28 +4,24 @@ parent: Community
 layout: page
 nav_order: 0
 ---
-<head>
-<style>
+\<head\>
+\<style\>
 .flex-container {
-  display: flex;
-  flex-direction: row;
+  display: flex; flex-direction: row;
 }
-
 .flex-item {
   background-color: #301E1E;
   padding: 10px;
   text-align: left;
   width: 100%;
 }
-
 @media (max-width: 600px) {
   .flex-container {
-    flex-direction: column;
+flex-direction: column;
   }
-  
 }
-</style>
- </head>
+\</style\>
+ \</head\>
 
 
 # Circle
