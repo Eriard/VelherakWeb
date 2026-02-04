@@ -61,16 +61,17 @@ Wardens are empowered by <font color="#FF9E02">  Rites </font> that show their s
 <div class="flex-item">
 <h4>Wild Walker</h4>
 
-<blockquote>Wander through the wilds, keep the paths of old, rediscover and make solid that which once was lost.<blockquote>
+<blockquote>Wander through the wilds, keep the paths of old, rediscover and make solid that which once was lost.</blockquote>
 
 </div>
+
 <hr class="solid">
+
 <div class="flex-item">
 <h4>Dream Watcher</h4>
 
 <blockquote> Meditate on the anchor and enter deep dreamlike trances that lets you traverse the dreaming wilds and protect your people. </blockquote>
 
-<hr class="solid">
 </div>
 </div>
 </body>
