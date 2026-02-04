@@ -71,7 +71,7 @@ Wardens are empowered by <font color="#FF9E02">  Rites </font> that show their s
 
 <div class="flex-item">
 <a href="https://velherak.com/Rulebook/Character/Wardens.html#DreamWatcher">
-<b>Dream Watcher</b><a>
+<b>Dream Watcher</b></a>
 
 <blockquote> Meditate on the anchor and enter deep dreamlike trances that lets you traverse the dreaming wilds and protect your people. </blockquote>
 
