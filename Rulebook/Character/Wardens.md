@@ -82,7 +82,7 @@ Multiple people can choose the same Warden, but we recommend to not exceed two w
 
 ---
 
-<h1 id=“SpearSage”>Spear Sage </h1>
+# Spear Sage {#SpearSage}
 
 > Protecting your people is your highest calling and you would do anything to protect them from the hungry beasts or shambling monsters.
 
