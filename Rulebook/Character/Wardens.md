@@ -27,10 +27,7 @@ nav\_order: 0
 }
 </style>
  </head>
-<script>
-        document.querySelectorAll("#site-nav> ul")[0].insertAdjacentHTML("<h2>Test</h2>");
-    </script>
-
+ 
 # Wardens
 Wardens are the sacred guardians of the people, each archetype holds an important role in their society. A Warden carries many tools, which they use sparingly and only against specific threats.
 
