@@ -82,13 +82,13 @@ Wardens are empowered by <font color="#FF9E02">  Rites </font> that show their s
 
 
 **Choosing Wardens**
-Multiple people can choose the same Warden, but we recommend to not exceed two wardens of the same type to balance out the group. If the group is missing a certain type of Warden they can always find an NPC stand in or perform Rituals.
+Multiple players can choose the same Warden, but we recommend to not exceed two wardens of the same type to balance out the group.
 
 ---
 
 # Spear Sage {#SpearSage}
 
-> Protecting your people is your highest calling and you would do anything to protect them from the hungry beasts or shambling monsters.
+> _Protecting your people is your highest calling and you would do anything to protect them from the hungry beasts or shambling monsters._
 
 
 ## The Hallowed Spear
@@ -99,7 +99,7 @@ A mystical long spear which is said to guide its bearer to protect their people,
 
 **Boon**: 1 Bonus dice on reactions that protect.
 
-**Mystic Boon - 3s**: Impale rot to stop it spreading.
+**Mystic Boon**: Impale rot to stop it spreading.
 
 > *Howling Moon thrust the Hallowed Spear into the abdomen of the rotting god and gave of herself to awaken its fury and cleanse the god of its affliction.*
 
@@ -107,26 +107,29 @@ A mystical long spear which is said to guide its bearer to protect their people,
 
 > These Rites are your shield against the accursed and rotten beasts
 
-**Rite of Courage**
-
+### Rite of Courage
 Perform a rite where you encase your heart with courage so that the hollow beasts do not strike fear into you.
+
+**Boon:** The affected may ignore any temporary burdens connected to fear. 
+
+**Duration:** For a day and a night.
 
 > *Howling Moon meditated on what awaited her, injury, suffering, death, and she looked upon the faces of her people and knew her actions would save them. She was prepared to face death and remain steadfast with her spear in hand.*
 
-**Rite of Restraint**
-
+### Rite of Restraint
 Perform a rite where you draw a line or a circle which a chosen beast cannot cross. 
+
+**Duration:** Until dawn breaks
 
 > *With ancient movements Howling Moon carved at the earth with the Hallowed Spear and spoke sacred words that completed the rite, no monster may cross this threshold she proclaimed.*
 
 
-**Rite of Revelation**
-
+### Rite of Revelation
 Perform a rite where you compel the beast to reveal itself and cast of its veil.
 
-Perform a rite where you seek to know the beast, its location or its desires.
+**Duration**: Until the beast has been revealed.
 
-> *Flames crackled and danced, Howling Moon held the tip of the Hallowed Spear deep within the flames until her incantation was spoken. The Spear itself pulled her towards the monster she sought and she gladly followed to find their tormentor.*
+> *Flames crackled and danced, Howling Moon held the tip of the Hallowed Spear deep within the flames until the incantation was spoken. She pointed it towards the accused, and they burned with anguish as the spear compelled the beast to reveal itself.*
 
 
 ---
@@ -134,7 +137,6 @@ Perform a rite where you seek to know the beast, its location or its desires.
 # The Rot
 
 > *This **Knowledge** is secret and is your burden to bear.*
-
 
 From wounds in the wilds they form, the Rot, also known as the blood curse. A strange sickness upon the land which cares not what it infects, be it man, creature, stone, water or wind. It is a dreadful thing that slowly rots one from within, leaving a haunting monstrous thing behind which moves and acts as if driven by an otherworldly will.
 
@@ -158,7 +160,7 @@ A mystical Knife which is said to guide its bearer through the wilds, cutting th
 
 **Boon**: Bonus dice on traversal rolls in the Waking Wilds
 
-**Mystic Boon**: Impale earth, stone or wood to anchor the current location
+**Mystic Boon**: Impale earth, stone or wood to anchor the current location.
 
 > *Burning Sky pushed the Carving Knife into the centre of the ritual circle causing the air to burst into multicoloured flames. Slowly he cut through the air and a threshold to another place appeared before them.*
 
@@ -166,12 +168,10 @@ A mystical Knife which is said to guide its bearer through the wilds, cutting th
 
 > *These **Rites** guide you and your people through the wilds*
 
-**Passing**
-
+### Rite of Passing
 Perform a rite where you ask for a swift, safe or soft passage through the lands of gods and spirits.
 
 **Boon:** 
-
 - A swift journey allows you to halve the travel time.
 - A safe journey ensures no danger on the journey.
 - A soft journey vanishes your tracks behind you.
@@ -181,18 +181,22 @@ Perform a rite where you ask for a swift, safe or soft passage through the lands
 > *Burning Sky presented the offering at the edge of the forest under moonlight. He had carved the animal with the Carving knife and spoken the right words, tomorrow they would travel swiftly if the spirits obliged.*
 
 
-**Hunting**
+### Rite of Hunting
 Perform a rite where you ask for guidance on the hunt, to sense the prey and seek it well.
 
-**Boon:**  The Hunters are undaunted by terrain, weather and injury when engaging with the prey.
+**Boon:** The Hunters are undaunted by terrain, weather and injury when engaging with the prey.
 
 **Duration**: Until the prey is caught
 
 > *Blood poured into the great basin, Burning Sky spoke the words of the hunt and smeared it across the faces of the hunters to be, tomorrow the great prey would be theirs.*
 
 
-**Vigor** 
+### Rite of Vigor
 Perform a rite where you fill the body and mind with strength for the coming ordeal, allowing one to carry twice the weight, or to move over twice the distance without need for rest.
+
+**Boon:** The affected do not gain any exhaustion for the duration of the boon.
+
+**Duration**: Until night falls
 
 ---
 
@@ -223,7 +227,7 @@ The best way to avoid the Wandering Wilds and the Shifting is to keep paths well
 
 An Anchor that grounds its wearer in the dreaming wilds, allowing them to shape dreams and traverse as they wish through the dreaming wilds. The anchor also leads them home, no matter how deep they dream. By offering their memories, the Watchers can bring back the lost or solidify places in the dreaming wilds, making them fixtures of the dream.
 
-**Boon:** Bonus Dice on Traversal Rolls in the Dreaming Wild - no cost.
+**Boon:** Bonus Dice on Traversal Rolls in the Dreaming Wild.
 
  **Mystic Boon:** 
 *Halt Dream*, Set your Anchor up in the sky and it will hover and make it so that nothing may change.
@@ -234,20 +238,30 @@ An Anchor that grounds its wearer in the dreaming wilds, allowing them to shape 
 
 You can perform Sacred Ceremonies where you focus on your Anchor to enter a deep trance, allowing you to peer into the dreaming wilds, entering shared dreams or protecting the sleeping from the nightmares.
 
-**Vision**
+**Rite of Visions**
 Perform a rite where you bind yourself to your dreams, allowing you to seek out the people or places that you dream of. When you awake there is a pull which you can follow.
 
+**Boon:** You sense the general direction of the subject no matter where you are.
 
-**Warding**
+**Duration**: Until the subject has been found or until night falls.
+
+
+**Rite of Warding**
 Perform a rite where you serve as guide to the sleeping, keeping them on the true path, not falling into nightmares.
+
+**Boon:** The affected may not fall into nightmares.
+
+**Duration**: Until dawn breaks.
 
 > *The villagers thrashed and suffered, unable to awaken, their spirit slowly fading. Moonsinger stood above the dreamer and with ethereal song she slowly guiding them out of their nightmares and back to the waking wilds.*
 
-**Wandering**
-Perform a rite where you delve into the dreams of others to guide them or seek what troubles them
+**Rite of Wandering**
+Perform a rite where you delve into the dreams of others to guide them or seek what troubles them.
 
-**Waking Dream**
-Perform a rite where you gain the gaze of the dreaming wilds, seeing the veil between wilds, echoes placed upon the waking. This lasts until the next sunset.
+**Boon:** You are free to wander into the dreams of another and commune with them.
+
+**Duration**: Until dawn breaks.
+
 ---
 
 # The Dreaming Wild

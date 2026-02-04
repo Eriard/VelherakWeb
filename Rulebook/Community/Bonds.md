@@ -2,7 +2,7 @@
 title: Bonds
 parent: Community
 layout: page
-nav_order: 1
+nav\_order: 1
 ---
 
 # Bonds
@@ -15,6 +15,31 @@ Then Create a Bond to the player sitting to your left. If the group knows each o
 Create a Bond to **one** **Player** and **one** **NPC** in the community.
 
 I am bound to X through Y reason
+<head>
+	<style>
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-item {
+  background-color: #301E1E;
+  padding: 10px;
+  text-align: left;
+  width: 100%;
+}
+@media (max-width: 600px) {
+  .flex-container {
+	flex-direction: column;
+  }
+  
+}
+	</style> 
+</head>
+
+<body>
+	<div class="flex-container">
+	  <div class="flex-item">
 
 ### Duty
 
@@ -26,6 +51,10 @@ I was inducted
 
 I owe them my life\
 We were lost together
+\</div\>
+\<body\>
+\<div class="flex-container"\>
+\<div class="flex-item"\>
 
 ### Blood
 
@@ -37,3 +66,4 @@ As a Child
 Through Friendship \
 Through Passion \
 Through Respect
+\</div\> \</div\> \</body\>

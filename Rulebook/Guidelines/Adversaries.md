@@ -2,7 +2,7 @@
 title: Adversaries
 parent: Guidelines
 layout: page
-nav_order: 7
+nav\_order: 7
 ---
 
 # Adversaries
@@ -29,7 +29,6 @@ Adversaries are any entity that stands to hinder you from achieving your goal, i
 
 **Difficulty Tier** - This value denotes the amount of successes needed to succeeded against the adversary in an action.
 
-*Tricky, Challenging, Extraordinary, Legendary*
 
 ## Defeat Response
 
@@ -41,24 +40,21 @@ When an adversary reaches max Stress they can engage their **Fight**, **Flight**
 
 **Fawn** makes it so that the Adversary surrenders to the will of the players and lets them get their way, though it may be begrudgingly.
 
-## Tools
-
-Adversaries may have with them a small set of tools that aid them like arms, protection, talismans and more.
+## Belongings
+Adversaries may have with them a small set of belongings that aid them like arms, protection, talismans and more.
 
 ## Death
-
-Death does not come by accident. An adversary cannot be killed by reaching max stress, Players must make an active choice to take an their life once they have been captured or have forfeited the conflict.
+Death does not come by accident. An adversary cannot be killed by reaching max stress, Players must make an active choice to take their life once they have been captured or have forfeited the conflict. Taking lives may cause unforeseen consequences.
 
 ## Nature
-
 Each Adversary has an underlying nature that affects who they are and how they respond to actions against them. Below is a table of Nature examples and their most likely Defeat Response
 
-| **Nature** | **Personality** | **Defeat** |
-| --- | --- | --- |
-| Aggressive | Will not respond well to being talked down to or attempts to subdue.  | Fight |
-| Stubborn | Will not yield or give up. May double down if aggressively confronted. | Fight |
-| Submissive | Will attempt to avoid outright confrontation. | Fawn |
-| Clever | Will attempt to trick you into getting their own way | Fawn |
-| Cowardly | Will always attempt to take the easy route | Flee |
-| Practical | Will attempt to find the best way, if they fail they will seek other venues | Flee |
+| **Nature** | **Personality**                                                             | **Defeat** |
+| ---------- | --------------------------------------------------------------------------- | ---------- |
+| Aggressive | Will not respond well to being talked down to or attempts to subdue.        | Fight      |
+| Stubborn   | Will not yield or give up. May double down if aggressively confronted.      | Fight      |
+| Submissive | Will attempt to avoid outright confrontation.                               | Fawn       |
+| Clever     | Will attempt to trick you into getting their own way                        | Fawn       |
+| Cowardly   | Will always attempt to take the easy route                                  | Flee       |
+| Practical  | Will attempt to find the best way, if they fail they will seek other venues | Flee       |
 

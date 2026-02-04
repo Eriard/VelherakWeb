@@ -20,7 +20,7 @@ nav\_order: 2
 <aside>
 
 Use the Standard Array to fill in your Strengths
-**2*, 1, 1***
+***2, 1, 1***
 
 </aside>
 
@@ -80,28 +80,23 @@ Use the Standard Array to fill in your Skills:
 
 This pool of points can be spent to perform special actions or enhance ordinary actions.
 
-You start with a max of 6 Spirit
-
-Regain 2 Spirit on Dramatic Success or on a nights recovery.
+You start with a max of 6 Spirit and regain 2 Spirit on Dramatic Success or on a nights recovery.
 
 **Uses: **
-
 - 1 Spirit to gain One Bonus Dice
-- 2 Spirit to gain **Second Wind**
+- 2 Spirit to gain recover from 3 Stress
 - 1-3 Spirit to Invoke Talisman, Relic or Legend
 
 ## Insight
 
 *The Potential of your character.*
-
 Insight is used during Downtime to progress the character in a number of ways.
 
-You start with  0 Insight
+You start with 0 Insight
 
 Insight is gained on Dramatic Failures or through completing adventures. 
 
-**Uses: **
-
+**Uses:**
 - 1-3 Insight to Fable
 - 3 Insight to gain a new Rite through Downtime.
 - 3 Insight to gain +1 to a Trait or skill through Downtime.

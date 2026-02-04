@@ -29,15 +29,10 @@ Trauma is your characters physical and mental integrity. Each point of Trauma br
 
 > You have a capacity of 6 Trauma + Wits.
 
-
+\<aside\>
 **Trauma** can be reduced through downtime, the severity of the Trauma will determine how long it takes to recover from.
-
-<aside>
 
 You have three severities of Trauma; Minor, Medium and Major.
 
-Trauma gained always fills the lowest available severity.
-
-When starting out you have a capacity of 2 minor, 2 medium and 2 major trauma. Wits unlocks the third capacity starting with the lowest severity.
-
-</aside>
+Trauma gained always fills the lowest available severity. When starting out you have a capacity of 2 minor, 2 medium and 2 major trauma. Wits unlocks the third capacity starting with the lowest severity.
+\</aside\>

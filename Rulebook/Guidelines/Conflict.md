@@ -1,8 +1,8 @@
 ---
-title: Belongings
+title: Conflict
 parent: Guidelines
 layout: page
-nav_order: 4
+nav\_order: 4
 ---
 # Belongings
 

@@ -2,7 +2,7 @@
 title: Woe
 parent: Community
 layout: page
-nav_order: 4
+nav\_order: 4
 ---
 
 <head>
@@ -20,7 +20,7 @@ nav_order: 4
 }
 @media (max-width: 600px) {
   .flex-container {
-    flex-direction: column;
+	flex-direction: column;
   }
   
 }
@@ -89,7 +89,6 @@ These are harbingers of doom or blessings upon the community. Each warden create
 <body>
 	<div class="flex-container">
 	  <div class="flex-item">
-	  
 <h4>What</h4>
 
 <blockquote>What did you See / Hear / Smell</blockquote><br>
@@ -105,7 +104,7 @@ These are harbingers of doom or blessings upon the community. Each warden create
 9. Strange Markings upon the skin <br>
 10. Nine eyes gazing upon you
 	</div>
-	
+		
 <div class="flex-item">
 <h4>Where d10</h4>
 

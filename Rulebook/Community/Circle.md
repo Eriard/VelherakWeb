@@ -2,7 +2,7 @@
 title: Circle
 parent: Community
 layout: page
-nav_order: 0
+nav\_order: 0
 ---
 <head>
 <style>
@@ -24,7 +24,8 @@ nav_order: 0
   }
   
 }
-</style> </head>
+</style>
+ </head>
 
 
 # Circle
@@ -32,6 +33,7 @@ nav_order: 0
 
 The Circle is the group of Wardens banded together to protect the people from darkness and hardship. Choose a name that reflects the group, why do they bear this name?
 Was it thrust upon them, or did they choose this name?
+
 <body>
 <div class="flex-container">
   <div class="flex-item">
@@ -64,3 +66,4 @@ The Circle of Truth
 </div>
 </div>
 </body>
+
