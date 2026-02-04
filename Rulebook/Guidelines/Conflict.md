@@ -2,7 +2,7 @@
 title: Belongings
 parent: Guidelines
 layout: page
-nav_order: 5
+nav_order: 4
 ---
 # Belongings
 

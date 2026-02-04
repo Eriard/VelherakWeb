@@ -27,6 +27,8 @@ During Scenes there are many times the players will be faced with dangers, chall
 
 ## Challenges
 
+**Examples of Actions used to overcome challenges**
+
 | Attributes / Skills | **Wits** | **Finesse** | **Endurance**|
 | --- | --- | --- | --- |
 | **Conceal** | Deceit | Sneaking / Stealing | Remain Still / Hold Breath |
@@ -40,6 +42,8 @@ During Scenes there are many times the players will be faced with dangers, chall
 In Challenge encounters you mainly suffer Burdens and Trauma
 
 ## Conflict
+
+**Examples of Actions used to end conflict**
 
 | Attributes / Intent | **Wits** | **Finesse** | **Endurance**|
 | --- | --- | --- | --- |

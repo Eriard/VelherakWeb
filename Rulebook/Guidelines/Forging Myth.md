@@ -2,7 +2,7 @@
 title: Forging Myths
 parent: Guidelines
 layout: page
-nav_order: 7
+nav_order: 8
 ---
 
 # Forging Myths
