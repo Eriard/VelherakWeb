@@ -51,7 +51,8 @@ Wardens are empowered by <font color="#FF9E02">  Rites </font> that show their s
 <body>
 <div class="flex-container">
   <div class="flex-item">
-<a href="https://velherak.com/Rulebook/Character/Wardens.html#SpearSage"><h4>Spear Sage</h4></a></a>
+  
+<a href="https://velherak.com/Rulebook/Character/Wardens.html#SpearSage"><h4>Spear Sage</h4></a>
 
 <blockquote>Wield the Hallowed Spear to protect your people from the hungry beasts or shambling monsters. </blockquote>
 
