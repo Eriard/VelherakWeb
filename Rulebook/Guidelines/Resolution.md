@@ -49,3 +49,29 @@ This cost **1** point of **Insight**, and players gain 2 points Spirit in return
 **Dramatic Failure**\
 You chose to push your failure into a Dramatic failure and gain a disastrous drawback.
 Gain 1 Insight.
+
+## Bonus & Penalties
+
+Depending on the situation you find yourself in, your Dice Pool might gain Bonus Dice or Penalty Dice. 
+
+**Bonus Dice.** 
+You add a d10 to your Dice Pool. You can have up to three Bonus Dice in your Dice Pool. 
+
+They can be gained through spending Spirit, receiving aid, invoking a Relic, Legend or Talisman, or through environmental and conditional triggers.
+
+**Penalty Dice.**
+You remove a d10 from your Dice Pool. You can’t have more than three Penalty Dice to your Dice Pool. 
+
+ They can be gained from environmental and conditional triggers, effects or attempting something dangerous.
+
+## Initiative
+
+When conflict is against one or more adversaries in an attempt to overcome them with weapons, wits, or words, it’s necessary to track actions and movement of everyone involved. This is done through the Initiative Queue. At the start of the conflict, all players roll 1d10 and add their Finesse, this becomes their initiative for the conflict. The Storyteller then ranks all players and adversaries based on their initiative from highest to lowest, forming the initiative queue. 
+
+The entity at the start of the initiative queue take their turn first. Moving to the next entity in the queue when they are done. When all entities in the initiative queue has taken their turn a round has passed, and you go through the queue again, starting from the top. 
+
+When a tie occurs between players they decide who acts first, or roll 1d10 until one gets a higher number. The highest number going first. If the tie is between a player and an adversary, the player acts first.  
+
+> **Optional Initiative**
+Instead of determining an initiative queue for a conflict, each player can choose when they act during the round. The storyteller injects the adversaries when suitable. The round is over when all participants of the conflict have taken a turn.
+>
