@@ -1,8 +1,8 @@
 ---
 title: Dream Watcher
 parent: Wardens
-layout: page
 nav_order: 2
+redirect_to: https://www.velherak.com/Rulebook/Character/Wardens-html#DreamWatcher
 ---
 # Dream Watcher
 

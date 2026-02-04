@@ -1,8 +1,8 @@
 ---
 title: Wild Walker
 parent: Wardens
-layout: page
 nav_order: 1
+redirect_to: https://www.velherak.com/Rulebook/Character/Wardens-html#WildWalker
 ---
 # Wild Walker
 > The Wilds are your true home, it calls to you when you are amongst the people, it is the only place you find true peace. As the Wild Walker you are the one to keep the paths of the people well trod so they don’t wander and vanish.
