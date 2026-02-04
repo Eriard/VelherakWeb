@@ -10,7 +10,6 @@ layout: page
   display: flex;
   flex-direction: row;
 }
-
 .flex-item {
   background-color: #301E1E;
   padding: 10px;
@@ -22,10 +21,9 @@ layout: page
   .flex-container {
 flex-direction: column;
   }
-  
 }
 </style>
- </head>
+</head>
 
 
 # Creating a Community
