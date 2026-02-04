@@ -146,7 +146,7 @@ Any creature taken by the rot slowly wastes away, and in time will become a nest
 Your kin found the right ingredients to brew remedies to stand against this rot, and the rites that rattle the rotted, you have inherited this knowledge and must protect your people if the Rot ever arises again.\
 
 
-<h1 id=“WildWalker”>Wild Walker </h1>
+# Wild Walker  {#WildWalker}
 
 > The Wilds are your true home, it calls to you when you are amongst the people, it is the only place you find true peace. As the Wild Walker you are the one to keep the paths of the people well trod so they don’t wander and vanish.
 
@@ -212,7 +212,7 @@ A Threshold appears most often between perfectly entangled or aligned things. Th
 The best way to avoid the Wandering Wilds and the Shifting is to keep paths well trod and marked, and to never stray too far from the path.
 
 
-<h1 id=“DreamWatcher”>Dream Watcher</h1>
+# Dream Watcher {#DreamWatcher}
 
 > Meditate on the anchor of dreams to enter waking trances where you gaze beyond the veil into the Dreaming Wilds. Protect your people and ward off nightmares. Seek out those lost in dreams and help them find their way back.
 
