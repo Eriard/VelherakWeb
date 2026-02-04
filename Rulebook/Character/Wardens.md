@@ -60,7 +60,8 @@ Wardens are empowered by <font color="#FF9E02">  Rites </font> that show their s
 
 <hr class="solid">
 <div class="flex-item">
-<h4>Wild Walker</h4>
+
+<a href="https://velherak.com/Rulebook/Character/Wardens.html#WildWalker"><b>Wild Walker</b></a>
 
 <blockquote>Wander through the wilds, keep the paths of old, rediscover and make solid that which once was lost.</blockquote>
 
@@ -69,7 +70,8 @@ Wardens are empowered by <font color="#FF9E02">  Rites </font> that show their s
 <hr class="solid">
 
 <div class="flex-item">
-<h4>Dream Watcher</h4>
+<a href="https://velherak.com/Rulebook/Character/Wardens.html#DreamWatcher">
+<b>Dream Watcher</b><a>
 
 <blockquote> Meditate on the anchor and enter deep dreamlike trances that lets you traverse the dreaming wilds and protect your people. </blockquote>
 
