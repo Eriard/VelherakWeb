@@ -26,7 +26,8 @@ While acting in a scene or encounter, the distance between a character and their
 During Scenes there are many times the players will be faced with dangers, challenges and adversaries that hinder their path forwards. These are categorised into **Challenges**, which is built around your skills, while **Conflict** which is built around your intent.
 
 ## Challenges
-| Attributes / Skills | **Wits** | **Finesse** | **Endurance** |
+
+| Attributes / Skills | **Wits** | **Finesse** | **Endurance**|
 | --- | --- | --- | --- |
 | **Conceal** | Deceit | Sneaking / Stealing | Remain Still / Hold Breath |
 | **Cognise** | Understand Foreign Concepts | Investigate | Resist Mythical forces |
@@ -39,7 +40,8 @@ During Scenes there are many times the players will be faced with dangers, chall
 In Challenge encounters you mainly suffer Burdens and Trauma
 
 ## Conflict
-| Attributes / Intent | **Wits** | **Finesse** | **Endurance** |
+
+| Attributes / Intent | **Wits** | **Finesse** | **Endurance**|
 | --- | --- | --- | --- |
 | **Subdue** | Persuade, Intimidate | Disarm,  | Grapple |
 | **Deflect** | Deny, Resist | Parry, Counter | Block, Brace |
