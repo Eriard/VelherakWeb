@@ -5,8 +5,8 @@ has_children: true
 layout: page
 nav_order: 0
 ---
-\<head\>
-\<style\>
+<head>
+<style>
 .flex-container {
   display: flex;
   flex-direction: row;
@@ -25,8 +25,8 @@ flex-direction: column;
   }
   
 }
-\</style\>
- \</head\>
+</style>
+ </head>
  
 # Wardens
 Wardens are the sacred guardians of the people, each archetype holds an important role in their society. A Warden carries many tools, which they use sparingly and only against specific threats.
@@ -144,7 +144,7 @@ The Rot can take many forms, often it is unseen by ordinary eyes, only the keen 
 
 Any creature taken by the rot slowly wastes away, and in time will become a nest from which the Rot spreads further on. There are remedies that can banish the rot, but what has been lost can never be regained, if one has wasted away too far, one shall never recover.
 
-Your kin found the right ingredients to brew remedies to stand against this rot, and the rites that rattle the rotted, you have inherited this knowledge and must protect your people if the Rot ever arises again.\\
+Your kin found the right ingredients to brew remedies to stand against this rot, and the rites that rattle the rotted, you have inherited this knowledge and must protect your people if the Rot ever arises again.
 
 ---
 
