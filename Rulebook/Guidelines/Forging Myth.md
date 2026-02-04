@@ -16,7 +16,7 @@ Myths can be about Rot, Times, Entities and Places - all myths are otherworldly 
 
 Mythical Entities & Forces
 
-### What is a God?
+## What is a God?
 
 The terminology used here is for the storytellers advantage, to seperate types of mythical entities into different categories. But, a spirit can be a god, a god can be a spirit, a god can be accursed, a shadow can be accursed. 
 
@@ -30,7 +30,7 @@ When creating Creatures of Myth for the adventure consider their role, as they s
 
 *Not all Creatures of Myth you create need to fit into any of the categories below, These are guides to help you, not stifle you. A Creature of Myth can be any mythical entity or thing.*
 
-### Mythical Entities and Forces
+# Mythical Entities and Forces
 
 **Glory**
 
@@ -58,7 +58,7 @@ Thrones are natural wellsprings of power. One may find them abandoned in the wil
 
 *Below we include some categories for the storyteller in how one might divide the Velherak. In the world there is no true category for Velherak and a create may fit in several or none of the categories detailed below. In the world, any Velherak should simply be considered as a standalone myth with its own rules and definitions.*
 
-### **The Unbound**
+## **The Unbound**
 
 > *Entities or forces that may always have been here. They may not even know the concept of life or death and utterly unknowable entities.*
 
@@ -77,7 +77,7 @@ To sate or push back an Unbound, offerings must be made. These can be presented 
 
 Being of the physical and of thought allows the Unbound to enter the Waking Wilds through the actions and thoughts of others, or through any event in the natural world. These Thresholds are also required for an Unbound to return to whence they came from.
 
-### **The Wise**
+## **The Wise**
 
 > *Entities that have lived for too long, overcoming death and ascending into godhood - making them larger, Wiser and mightier than the stock they came from.*
 
@@ -96,7 +96,7 @@ Every Wise has a higher purpose or tenet they seek to uphold. This can be someth
 
 These are seats of power from whence the Wise rule an area, or perhaps an entire region.
 
-### **The Unseen**
+## **The Unseen**
 
 > *Entities and forces that arise from care, time or violence. It is said that all things have a Spirit, and in time they may grow mighty enough to manifest upon the world.*
 
@@ -115,7 +115,7 @@ All the Unseen came from somewhere, and many are bound to their fate from the da
 
 Every Unseen holds a hunger within them that drives them to grow in strength and reach. They feed upon this hunger like a parasite upon the world, sometimes forming symbiotic relationships with creatures or plants, other times they are utterly destructive in nature.
 
-### **The Accursed**
+## **The Accursed**
 
 > *Entities that have been cursed, by others or by themselves. They are of singular thought and obsession. Manifesting their curse in dreadful physical ways they become monstrous.*
 
@@ -138,7 +138,7 @@ Any Accursed is guided by an internal nature which affects how they
 
 Any Accursed manifests their curse and obsession in unique ways, making them not only terrible in spirit but also in visage.
 
-### Overcoming Myths
+# Overcoming Myths
 
 There are seldom any true way to defeat a Velherak, but there are ways to still live to see another day. Through Bargain, Ceremony and Trickery one may yet survive.
 
