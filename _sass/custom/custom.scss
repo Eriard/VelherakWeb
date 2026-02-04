@@ -26,3 +26,21 @@ strong {
   font-weight: 700;
   color: #FF9E02;
 }
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-item {
+  background-color: #301E1E;
+  padding: 10px;
+  text-align: left;
+  width: 100%;
+}
+
+@media (max-width: 600px) {
+  .flex-container {
+    flex-direction: column;
+  }
+}
