@@ -2,7 +2,7 @@
 title: Vitality
 parent: Character
 layout: page
-nav_order: 3
+nav\_order: 3
 ---
 
 # Vitality
@@ -17,7 +17,7 @@ Stress signifies the amount of physical and mental strain that your character ha
 *When you reach max stress you suffer a Trauma and are taken out of the conflict until roused by an ally.*
 
 > You have a capacity of 6 Stress + Endurance
-> 
+
 
 **Stress** is reduced to zero with a moment to breathe once danger has passed. Reduce 1d10 of Stress if you are Roused by an ally.
 
@@ -33,7 +33,6 @@ Trauma is your characters physical and mental integrity. Each point of Trauma br
 **Trauma** can be reduced through downtime, the severity of the Trauma will determine how long it takes to recover from.
 
 <aside>
-<img src="/icons/exclamation-mark-double_yellow.svg" alt="/icons/exclamation-mark-double_yellow.svg" width="40px" />
 
 You have three severities of Trauma; Minor, Medium and Major.
 

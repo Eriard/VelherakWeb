@@ -1,9 +1,9 @@
 ---
 title: Wardens
 parent: Character
-has\_children: true
+has_children: true
 layout: page
-nav\_order: 0
+nav_order: 0
 ---
 <head>
 <style>

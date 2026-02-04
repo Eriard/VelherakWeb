@@ -2,7 +2,7 @@
 title: Attributes
 parent: Character
 layout: page
-nav_order: 2
+nav\_order: 2
 ---
 
 # Attributes
@@ -18,7 +18,6 @@ nav_order: 2
 **Endurance** - Your ability to endure hardship
 
 <aside>
-<img src="/icons/question-mark_pink.svg" alt="/icons/question-mark_pink.svg" width="40px" />
 
 Use the Standard Array to fill in your Strengths
 **2*, 1, 1***
@@ -34,7 +33,6 @@ Use the Standard Array to fill in your Strengths
 **Escalate** - Your ability to inflict harm
 
 <aside>
-<img src="/icons/question-mark_pink.svg" alt="/icons/question-mark_pink.svg" width="40px" />
 
 Use the Standard Array to fill in your Intents
 ***3, 2, 1***
@@ -86,10 +84,10 @@ You start with a max of 6 Spirit
 
 Regain 2 Spirit on Dramatic Success or on a nights recovery.
 
-Uses: 
+**Uses: **
 
 - 1 Spirit to gain One Bonus Dice
-- 2 Spirit to avoid gain **Second Wind**
+- 2 Spirit to gain **Second Wind**
 - 1-3 Spirit to Invoke Talisman, Relic or Legend
 
 ## Insight
@@ -102,7 +100,7 @@ You start with  0 Insight
 
 Insight is gained on Dramatic Failures or through completing adventures. 
 
-Uses: 
+**Uses: **
 
 - 1-3 Insight to Fable
 - 3 Insight to gain a new Rite through Downtime.
