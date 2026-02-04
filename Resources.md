@@ -5,7 +5,7 @@ nav\_order: 7
 ---
 
 ## Rulebook
-[Rulebook.pdf][1]
+[Under Shadow of Night.pdf][1]
 
 [1]:{{ velherak.com }}/download/Under_Shadow_of_Night_Rulebook_0.1.pdf
 
