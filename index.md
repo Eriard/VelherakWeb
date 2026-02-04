@@ -15,8 +15,7 @@ Is a tabletop roleplaying game where the players dive into a forgotten time of m
 ---- 
 <i>Kickstarter for a printed rulebook coming summer 2026.<i>
 
-<a href="https://www.kickstarter.com/projects/hybrosia/under-shadow-of-night" target="_blank" rel="noopener noreferrer">
-  <img src="assets/images/LogoImageKick.png" alt="Main promo image of Velherak. A Theiwan Dream Watcher gazing into the dreaming Wilds" width="700"/\>
+<a href="https://www.kickstarter.com/projects/hybrosia/under-shadow-of-night" target="_blank" rel="noopener noreferrer"> <img src="assets/images/LogoImageKick.png" alt="Main promo image of Velherak. A Theiwan Dream Watcher gazing into the dreaming Wilds" width="700"/>
 </a>
 
 
