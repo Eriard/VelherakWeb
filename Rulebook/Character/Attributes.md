@@ -20,7 +20,7 @@ nav\_order: 2
 <aside>
 
 Use the Standard Array to fill in your Strengths
-***2, 1, 1***
+**2, 1, 1**
 
 </aside>
 
@@ -35,7 +35,7 @@ Use the Standard Array to fill in your Strengths
 <aside>
 
 Use the Standard Array to fill in your Intents
-***3, 2, 1***
+**3, 2, 1**
 
 </aside>
 
@@ -68,7 +68,7 @@ Use the Standard Array to fill in your Intents
 <aside>
 
 Use the Standard Array to fill in your Skills:
-***3, 2, 2, 1, 1, 1***
+**3, 2, 2, 1, 1, 1**
 
 </aside>
 

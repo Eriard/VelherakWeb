@@ -4,8 +4,8 @@ parent: Community
 layout: page
 nav_order: 0
 ---
-\<head\>
-\<style\>
+<head>
+<style>
 .flex-container {
   display: flex; flex-direction: row;
 }
@@ -20,8 +20,8 @@ nav_order: 0
 flex-direction: column;
   }
 }
-\</style\>
- \</head\>
+</style>
+ </head>
 
 
 # Circle
