@@ -22,11 +22,11 @@ Use your imagination to say what you want, and the Storyteller will inform you o
 
 
 
-### Invoke
+## Invoke
 You can spend spirit to Invoke the power within Legends, Talismans and Relics.
 A player can at any time invoke these tools to gain their boon. 
 
-### Fable
+## Fable
 Fable is a way for the players to participate actively in the world building of the game and to give themselves ways out of being stuck.
 
 **I know this** - If you think your character should know something then you can ask to pay Insight and gain the knowledge from the storyteller. Just remember that this must make sense
@@ -37,19 +37,18 @@ Fable is a way for the players to participate actively in the world building of 
 When performing an action related to your Legend or Relic you can spin a fable that calls upon the hidden power of your relic or legend, performing strange and logic defying feats.
 
 Costs 1-6 Insight
-The Storyteller may say no.
 
-### Shatter
+## Shatter
 You can at any time sacrifice a part of your character, or any tool or talisman they currently hold in possession to gain a boon. What is sacrificed is forever lost or corrupted by unseen forces.
 > Shattered Legends flip and become Burdens.
 
 
-### Conflict
+## Conflict
 Within Conflict, there are several actions with additional rules connected to them, this includes three base types and their sub types.
 
 > For all of these you combine Force with Intents to gain the dice pool.
 
-#### Act
+### Act
 > Perform once per round on your turn.
 
 **Move** can always be performed once on your round in addition to another Act.
@@ -58,14 +57,14 @@ Within Conflict, there are several actions with additional rules connected to th
 
 > Speech is Wits, Fists is Finesse or Endurance as base dmg, While Tools have varying base dmg based on type.
 
-#### React
+### React
 > Perform once per round on others turns.
 
 **Aid** allows you to grant another player a Bonus Dice on their action.
 
 **Disrupt** allows you to step in between an ally and the adversary, focusing attention on yourself.
 
-#### Defend
+### Defend
 > Perform every time you are attacked.
 
 **Guard** reduces incoming harm by one per success rolled, plus the protection value if you gain a complete success.
