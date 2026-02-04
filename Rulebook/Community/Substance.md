@@ -19,7 +19,7 @@ nav_order: 3
 }
 @media (max-width: 600px) {
   .flex-container {
-    flex-direction: column;
+	flex-direction: column;
   }
   
 }
@@ -55,7 +55,6 @@ Each player chooses one element of substance to forge and add to the community. 
 
 </div>
 	  <div class="flex-item">
-	  
 <h4>Status</h4>
 <hr class="solid">
 
@@ -171,7 +170,6 @@ Feel free to use the Character tables on page.XX to further flesh out these char
 - They are hunted by a monster <br>
 </div>
 	  <div class="flex-item">
-	  
 <h4>What do they desire</h4>
 
 <hr class="solid">
@@ -196,7 +194,7 @@ Feel free to use the Character tables on page.XX to further flesh out these char
 	<div class="flex-container">
 	  <div class="flex-item">
 
-<h4>What are they dedicated to</h4>
+<h4>What or who are they dedicated to</h4>
 <hr class="solid">
 
 - Animal <br>

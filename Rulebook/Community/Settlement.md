@@ -33,15 +33,15 @@ Each community will have a name for the settlement, and they may also call thems
 
 ## Example Settlements
 
-| **d10** | Names |
-| --- | --- |
-| **1** | In a Field | Widehearth |
-| **2** | In a Forest | Tangledeep |
-| **3** | In a Valley  | Heartwall |
-| **4** | By a River | Fork Stream |
-| **5** | By a Lake | Moonlake |
-| **6** | By the Swamp | Bogmist |
-| **7** | On a Hill | Hillwall |
-| **8** | On the Mountain | Wailing-Split |
-| **9** | On a Cliff | Far-fall |
-| **10** | On a Ridge | Stormridge |
+| **d10** | Names           |               |
+| ------- | --------------- | :------------ |
+| **1**   | In a Field      | Widehearth    |
+| **2**   | In a Forest     | Tangledeep    |
+| **3**   | In a Valley     | Heartwall     |
+| **4**   | By a River      | Fork Stream   |
+| **5**   | By a Lake       | Moonlake      |
+| **6**   | By the Swamp    | Bogmist       |
+| **7**   | On a Hill       | Hillwall      |
+| **8**   | On the Mountain | Wailing-Split |
+| **9**   | On a Cliff      | Far-fall      |
+| **10**  | On a Ridge      | Stormridge    |

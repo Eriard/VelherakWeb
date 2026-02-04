@@ -2,7 +2,7 @@
 title: Bonds
 parent: Community
 layout: page
-nav\_order: 1
+nav_order: 1
 ---
 
 # Bonds
@@ -15,8 +15,8 @@ Then Create a Bond to the player sitting to your left. If the group knows each o
 Create a Bond to **one** **Player** and **one** **NPC** in the community.
 
 I am bound to X through Y reason
-<head>
-	<style>
+\<head\>
+\<style\>
 .flex-container {
   display: flex;
   flex-direction: row;
@@ -30,40 +30,41 @@ I am bound to X through Y reason
 }
 @media (max-width: 600px) {
   .flex-container {
-	flex-direction: column;
+flex-direction: column;
   }
   
 }
-	</style> 
-</head>
+\</style\> 
+\</head\>
 
-<body>
-	<div class="flex-container">
-	  <div class="flex-item">
+\<body\>
+\<div class="flex-container"\>
+\<div class="flex-item"\>
 
 ### Duty
 
-I have been charged to protect \
-I swore my allegiance \
+I have been charged to protect \\
+I swore my allegiance \\
 I was inducted 
 
 ### Fate
 
-I owe them my life\
+I owe them my life\\
 We were lost together
 \</div\>
+
 \<body\>
 \<div class="flex-container"\>
 \<div class="flex-item"\>
 
 ### Blood
 
-As a Parent\
-As a Sibling\
+As a Parent\\
+As a Sibling\\
 As a Child
 
 ### Love
-Through Friendship \
-Through Passion \
+Through Friendship \\
+Through Passion \\
 Through Respect
 \</div\> \</div\> \</body\>
