@@ -52,8 +52,7 @@ I owe them my life <br>
 We were lost together <br>
 
  </div >
-
- <div class="flex-container" >
+ 
  <div class="flex-item" >
 
 <h3> Blood </h3>
