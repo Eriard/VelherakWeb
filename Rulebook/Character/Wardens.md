@@ -164,7 +164,7 @@ A mystical Knife which is said to guide its bearer through the wilds, cutting th
 
 > *Burning Sky pushed the Carving Knife into the centre of the ritual circle causing the air to burst into multicoloured flames. Slowly he cut through the air and a threshold to another place appeared before them.*
 
-## Rites of the Wilds
+## Wild Rites
 
 > *These **Rites** guide you and your people through the wilds*
 
@@ -232,7 +232,7 @@ An Anchor that grounds its wearer in the dreaming wilds, allowing them to shape 
  **Mystic Boon:** 
 *Halt Dream*, Set your Anchor up in the sky and it will hover and make it so that nothing may change.
 
-## Rites of Dreams
+## Dream Rites
 
 > *These **Rites** are your tools for wandering the dreaming wilds*
 
