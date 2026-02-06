@@ -46,9 +46,7 @@ Your age determines the your experience, place in the community and the nature o
 ## Legend
 
 > Legends are names, titles or named objects. They hold dormant power and can be **Invoked** to recall your past deeds to enhance your present actions.
-> 
 
-Choose two legends, one connected to your age and the other your life.
 
 ### Acquiring Legends
 
