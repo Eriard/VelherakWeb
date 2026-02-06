@@ -38,8 +38,8 @@ flex-direction: column;
 </style> 
 </head >
 
- <body >
- <div class="flex-container" >
+<body >
+<div class="flex-container" >
  <div class="flex-item" >
 
 <h3> Duty </h3>
@@ -53,7 +53,6 @@ We were lost together <br>
 
  </div >
 
- <body >
  <div class="flex-container" >
  <div class="flex-item" >
 
