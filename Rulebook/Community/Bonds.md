@@ -15,6 +15,7 @@ Then Create a Bond to the player sitting to your left. If the group knows each o
 Create a Bond to **one** **Player** and **one** **NPC** in the community.
 
 I am bound to X through Y reason
+
 <head>
 <style>
 .flex-container {
@@ -41,14 +42,14 @@ flex-direction: column;
  <div class="flex-container" >
  <div class="flex-item" >
 
-### Duty
-I have been charged to protect\
-I swore my allegiance\
-I was inducted\
+<h3> Duty </h3>
+I have been charged to protect <br>
+I swore my allegiance <br>
+I was inducted <br>
 
-### Fate
-I owe them my life\
-We were lost together
+<h3> Fate </h3>
+I owe them my life <br>
+We were lost together <br>
 
  </div >
 
@@ -56,14 +57,14 @@ We were lost together
  <div class="flex-container" >
  <div class="flex-item" >
 
-### Blood
-As a Parent\
-As a Sibling\
+<h3> Blood </h3>
+As a Parent <br>
+As a Sibling <br>
 As a Child
 
-### Love
-Through Friendship\
-Through Passion\
+<h3> Love </h3>
+Through Friendship <br>
+Through Passion <br>
 Through Respect
 
  </div >  </div >  </body >
