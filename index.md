@@ -6,7 +6,7 @@ nav\_order: 0
 
 
 # Under Shadow of Night
-> Mythical Stone Age TTRPG
+> Mythical Stone Age Horror
 Is a tabletop roleplaying game where the players dive into a forgotten time of mythical creatures beyond gods and monsters in the world of [Velherak][1]. Players take on the mantle of Wardens, and together with they must defend the people against mythical horrors, changing landscapes and terrible calamities that befall the region.
 
  It is played by between two and seven players, where one player takes the role of Storyteller and the others become the Wardens.
